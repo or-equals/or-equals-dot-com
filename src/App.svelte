@@ -284,7 +284,7 @@
                         <div class="col-12 col-md-10 col-lg-8 text-center">
 
                           <!-- Heading -->
-                          <h2>
+                          <h2 id="our-work">
                             Our customers streamline tedious processes through software.
                           </h2>
 
@@ -446,6 +446,10 @@
               <br>
               He founded Or Equals on the 3 core principles of: radical honesty, software excellence through craftmanship, and continuous improvement.
               His software experience spans the fashion, trucking, travel, workplace productivity, and insurance industries. Due to these varied experiences, he brings a dynamic and well-rounded approach, founded upon delivering business value.
+
+              <a href="https://www.visualcv.com/joshua-plicque/" target="_blank">
+                View his work experience here.
+              </a>
             </div>
 
           </div>
