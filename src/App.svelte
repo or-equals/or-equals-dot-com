@@ -1,5 +1,4 @@
 <script>
-  export let name;
 </script>
 
 <!-- NAVBAR
@@ -28,7 +27,7 @@
         <!-- Navigation -->
         <ul class="navbar-nav ml-auto">
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="navbarLandings" data-toggle="dropdown" href="#" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" id="navbarLandings" data-toggle="dropdown" href="#foo" aria-haspopup="true" aria-expanded="false">
               Landings
             </a>
             <div class="dropdown-menu dropdown-menu-xl p-0" aria-labelledby="navbarLandings">
@@ -123,7 +122,7 @@
             </div>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="navbarPages" data-toggle="dropdown" href="#" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" id="navbarPages" data-toggle="dropdown" href="#foo" aria-haspopup="true" aria-expanded="false">
               Pages
             </a>
             <div class="dropdown-menu dropdown-menu-lg" aria-labelledby="navbarPages">
@@ -254,112 +253,12 @@
             </div> <!-- / .row -->
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="navbarAccount" data-toggle="dropdown" href="#" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" id="navbarAccount" data-toggle="dropdown" href="#foo" aria-haspopup="true" aria-expanded="false">
               Account
             </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarAccount">
-              <li class="dropdown-item dropright">
-                <a class="dropdown-link dropdown-toggle" data-toggle="dropdown" href="#">
-                  Settings <span class="h6 text-uppercase text-primary align-self-center ml-1 mb-0">(new)</span>
-                </a>
-                <div class="dropdown-menu">
-                  <a class="dropdown-item" href="./account-general.html">
-                    General
-                  </a>
-                  <a class="dropdown-item" href="./account-security.html">
-                    Security
-                  </a>
-                  <a class="dropdown-item" href="./account-notifications.html">
-                    Notifications
-                  </a>
-                  <a class="dropdown-item" href="./billing-plans-and-payment.html">
-                    Plans & Payment
-                  </a>
-                  <a class="dropdown-item" href="./billing-users.html">
-                    Users
-                  </a>
-                </div>
-              </li>
-              <li class="dropdown-item dropright">
-                <a class="dropdown-link dropdown-toggle" data-toggle="dropdown" href="#">
-                  Sign In
-                </a>
-                <div class="dropdown-menu">
-                  <a class="dropdown-item" href="./signin-cover.html">
-                    Side Cover
-                  </a>
-                  <a class="dropdown-item" href="./signin-illustration.html">
-                    Illustration
-                  </a>
-                  <a class="dropdown-item" href="./signin.html">
-                    Basic
-                  </a>
-                  <a class="dropdown-item" data-toggle="modal" href="#modalSigninHorizontal">
-                    Modal Horizontal
-                  </a>
-                  <a class="dropdown-item" data-toggle="modal" href="#modalSigninVertical">
-                    Modal Vertical
-                  </a>
-                </div>
-              </li>
-              <li class="dropdown-item dropright">
-                <a class="dropdown-link dropdown-toggle" data-toggle="dropdown" href="#">
-                  Sign Up
-                </a>
-                <div class="dropdown-menu">
-                  <a class="dropdown-item" href="./signup-cover.html">
-                    Side Cover
-                  </a>
-                  <a class="dropdown-item" href="./signup-illustration.html">
-                    Illustration
-                  </a>
-                  <a class="dropdown-item" href="./signup.html">
-                    Basic
-                  </a>
-                  <a class="dropdown-item" data-toggle="modal" href="#modalSignupHorizontal">
-                    Modal Horizontal
-                  </a>
-                  <a class="dropdown-item" data-toggle="modal" href="#modalSignupVertical">
-                    Modal Vertical
-                  </a>
-                </div>
-              </li>
-              <li class="dropdown-item dropright">
-                <a class="dropdown-link dropdown-toggle" data-toggle="dropdown" href="#">
-                  Password Reset
-                </a>
-                <div class="dropdown-menu">
-                  <a class="dropdown-item" href="./password-reset-cover.html">
-                    Side Cover
-                  </a>
-                  <a class="dropdown-item" href="./password-reset-illustration.html">
-                    Illustration
-                  </a>
-                  <a class="dropdown-item" href="./password-reset.html">
-                    Basic
-                  </a>
-                </div>
-              </li>
-              <li class="dropdown-item dropright">
-                <a class="dropdown-link dropdown-toggle" data-toggle="dropdown" href="#">
-                  Error
-                </a>
-                <div class="dropdown-menu">
-                  <a class="dropdown-item" href="./error-cover.html">
-                    Side Cover
-                  </a>
-                  <a class="dropdown-item" href="./error-illustration.html">
-                    Illustration
-                  </a>
-                  <a class="dropdown-item" href="./error.html">
-                    Basic
-                  </a>
-                </div>
-              </li>
-            </ul>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="navbarDocumentation" data-toggle="dropdown" href="#" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" id="navbarDocumentation" data-toggle="dropdown" href="#foo" aria-haspopup="true" aria-expanded="false">
               Documentation
             </a>
             <div class="dropdown-menu dropdown-menu-md" aria-labelledby="navbarDocumentation">
