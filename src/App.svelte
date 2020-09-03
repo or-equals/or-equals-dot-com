@@ -45,7 +45,6 @@
 
         <!-- Button -->
         <a class="navbar-btn btn btn-sm btn-primary white lift ml-auto" href="mailto:someone@yoursite.com?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
-          <a href="">Email Us</a>
           Get in touch
         </a>
 
@@ -53,6 +52,8 @@
 
     </div>
   </nav>
+
+
   <!-- WELCOME
     ================================================== -->
     <section class="pt-4 pt-md-11">
