@@ -285,7 +285,7 @@
 
                           <!-- Heading -->
                           <h2>
-                            Our customers make or save money from their software. That's the bottom-line.
+                            Our customers streamline tedious processes through software.
                           </h2>
 
                           <!-- Text -->
@@ -407,66 +407,53 @@
     <!-- SHAPE
     ================================================== -->
     <div class="position-relative mt-n8">
-      <div class="shape shape-bottom shape-fluid-x svg-shim text-gray-200">
+      <div class="shape shape-bottom shape-fluid-x svg-shim text-black">
         <svg viewBox="0 0 2880 480" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M2160 0C1440 240 720 240 720 240H0v240h2880V0h-720z" fill="currentColor"/></svg>
       </div>
     </div>
 
     <!-- STATS
     ================================================== -->
-    <section class="pt-12 pt-md-13 bg-gray-200">
+    <section class="pt-12 pt-md-13 bg-black">
       <div class="container">
-        <div class="row align-items-center">
-          <div class="col-12 col-md-5 col-lg-6 order-md-2">
+        <div class="row justify-content-between align-items-center mb-5" id='about'>
+          <div class="col-12 col-md-4 order-md-2 text-center">
 
             <!-- Image -->
-            <img src="/img/illustrations/illustration-8.png" alt="..." class="img-fluid mb-6 mb-md-0">
+            <img class="img-fluid w-75 w-md-100 mb-6 mb-md-0" src="img/patient_pilot_award.jpeg" alt="...">
 
           </div>
-          <div class="col-12 col-md-7 col-lg-6 order-md-1">
+          <div class="col-12 col-md-7 order-md-1">
 
             <!-- Heading -->
-            <h2>
-              Stay focused on your business. <br>
-              <span class="text-primary">Let us handle the design</span>.
+            <h2 class="text-white" style="max-width: 450px;">
+              A software development shop obsessed with delivering real-world business value.
             </h2>
 
             <!-- Text -->
-            <p class="font-size-lg text-gray-700 mb-6">
-              You have a business to run. Stop worring about cross-browser bugs, designing new pages, keeping your components up to date. Let us do that for you.
-            </p>
+            <div class="lead text-muted-80 mb-0">
 
-            <!-- Stats -->
-            <div class="d-flex">
-              <div class="pr-5">
-                <h3 class="mb-0">
-                  <span data-toggle="countup" data-from="0" data-to="100" data-aos data-aos-id="countup:in"></span>%
-                </h3>
-                <p class="text-gray-700 mb-0">
-                  Satisfaction
-                </p>
-              </div>
-              <div class="border-left border-gray-300"></div>
-              <div class="px-5">
-                <h3 class="mb-0">
-                  <span data-toggle="countup" data-from="0" data-to="24" data-aos data-aos-id="countup:in"></span>/
-                  <span data-toggle="countup" data-from="0" data-to="7" data-aos data-aos-id="countup:in"></span>
-                </h3>
-                <p class="text-gray-700 mb-0">
-                  Support
-                </p>
-              </div>
-              <div class="border-left border-gray-300"></div>
-              <div class="pl-5">
-                <h3 class="mb-0">
-                  <span data-toggle="countup" data-from="0" data-to="100" data-aos data-aos-id="countup:in"></span>k+
-                </h3>
-                <p class="text-gray-700 mb-0">
-                  Sales
-                </p>
-              </div>
+              In October 2019, Joshua Plicque left a Software Engineering Lead position to pursue his personal passion of day trading in the stock market.
+              Along the way, in January 2020, he found himself blessed with opportunities to solve 3 company's business problems through software.
+
+              <br>
+              <br>
+
+              Joshua's career began under the tutelage of the world-class developers of Hashrocket, a lauded Ruby-on-Rails shop. After apprenticing there for a year, he honed his skills for 4 years
+              at zencase, a legal practice management startup. When things started taking off at the startup, he fielded a rockstar team of EmberJS and Rails developers.
+
+              <br>
+              <br>
+              He founded Or Equals on the 3 core principles of: radical honesty, software excellence through craftmanship, and continuous improvement.
+              His software experience spans the fashion, trucking, travel, workplace productivity, and insurance industries. Due to these varied experiences, he brings a dynamic and well-rounded approach, founded upon delivering business value.
             </div>
 
+          </div>
+        </div>
+        <div class="row align-items-center">
+          <div class="col-12">
+            <!-- Image -->
+            <img src="/img/illustrations/illustration-8.png" alt="..." class="img-fluid mb-6 mb-md-0">
           </div>
         </div> <!-- / .row -->
       </div> <!-- / .container -->
@@ -474,536 +461,28 @@
 
     <!-- PRICING
     ================================================== -->
-    <section class="pt-9 pt-md-12 bg-gray-200">
+    <section class="pt-9 pt-md-12 bg-black">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-12 col-md-10 col-lg-8 text-center">
 
             <!-- Heading -->
-            <h1>
-              Fair, simple pricing for all.
+            <h1 class="text-white">
+              Make software work for you.
             </h1>
 
             <!-- Text -->
-            <p class="lead text-gray-700">
-              All types of businesses need access to development resources, so we give you the option to decide how much you need to use.
+            <p class="lead text-white">
+              We have a proven track record of cutting business costs, improving productivity, and increasing happiness.
             </p>
 
-            <!-- Form -->
-            <form class="d-flex align-items-center justify-content-center mb-7 mb-md-9">
-
-              <!-- Label -->
-              <span class="text-muted">
-                Annual
-              </span>
-
-              <!-- Switch -->
-              <div class="custom-control custom-switch mx-3">
-                <input type="checkbox" class="custom-control-input" id="billingSwitch" data-toggle="price" data-target=".price">
-                <label class="custom-control-label" for="billingSwitch"></label>
-              </div>
-
-              <!-- Label -->
-              <span class="text-muted">
-                Monthly
-              </span>
-
-            </form>
-
-          </div>
-        </div> <!-- / .row -->
-        <div class="row align-items-center no-gutters">
-          <div class="col-12 col-md-6">
-
-            <!-- Card -->
-            <div class="card rounded-lg shadow-lg mb-6 mb-md-0" style="z-index: 1;">
-
-              <!-- Body -->
-              <div class="card-body py-6 py-md-8">
-                <div class="row justify-content-center">
-                  <div class="col-12 col-xl-9">
-
-                    <!-- Badge -->
-                    <div class="text-center mb-5">
-                      <span class="badge badge-pill badge-primary-soft">
-                        <span class="h6 font-weight-bold text-uppercase">Standard</span>
-                      </span>
-                    </div>
-
-                    <!-- Price -->
-                    <div class="d-flex justify-content-center">
-                      <span class="h2 mb-0 mt-2">$</span>
-                      <span class="price display-2 mb-0" data-annual="29" data-monthly="49">29</span>
-                      <span class="h2 align-self-end mb-1">/mo</span>
-                    </div>
-
-                    <!-- Text -->
-                    <p class="text-center text-muted mb-6 mb-md-8">
-                      per seat
-                    </p>
-
-                    <!-- Features -->
-                    <div class="d-flex">
-
-                      <!-- Check -->
-                      <div class="badge badge-rounded-circle badge-success-soft mt-1 mr-4">
-                        <i class="fe fe-check"></i>
-                      </div>
-
-                      <!-- Text -->
-                      <p>
-                        Rich, responsive landing pages
-                      </p>
-
-                    </div>
-                    <div class="d-flex">
-
-                      <!-- Check -->
-                      <div class="badge badge-rounded-circle badge-success-soft mt-1 mr-4">
-                        <i class="fe fe-check"></i>
-                      </div>
-
-                      <!-- Text -->
-                      <p>
-                        100+ styled components
-                      </p>
-
-                    </div>
-                    <div class="d-flex">
-
-                      <!-- Check -->
-                      <div class="badge badge-rounded-circle badge-success-soft mt-1 mr-4">
-                        <i class="fe fe-check"></i>
-                      </div>
-
-                      <!-- Text -->
-                      <p>
-                        Flexible, simple license
-                      </p>
-
-                    </div>
-                    <div class="d-flex">
-
-                      <!-- Check -->
-                      <div class="badge badge-rounded-circle badge-success-soft mt-1 mr-4">
-                        <i class="fe fe-check"></i>
-                      </div>
-
-                      <!-- Text -->
-                      <p>
-                        Speedy build tooling
-                      </p>
-
-                    </div>
-                    <div class="d-flex">
-
-                      <!-- Check -->
-                      <div class="badge badge-rounded-circle badge-success-soft mt-1 mr-4">
-                        <i class="fe fe-check"></i>
-                      </div>
-
-                      <!-- Text -->
-                      <p class="mb-0">
-                        6 months free support included
-                      </p>
-
-                    </div>
-
-                  </div>
-                </div> <!-- / .row -->
-              </div>
-
-              <!-- Button -->
-              <a href="#!" class="card-btn btn btn-block btn-lg btn-primary">
-                Get it now
-              </a>
-
-            </div>
-
-          </div>
-          <div class="col-12 col-md-6 ml-md-n3">
-
-            <!-- Card -->
-            <div class="card rounded-lg shadow-lg">
-
-              <!-- Body -->
-              <div class="card-body py-6 py-md-8">
-                <div class="row justify-content-center">
-                  <div class="col-12 col-xl-10">
-
-                    <!-- Badge -->
-                    <p class="text-center mb-8 mb-md-11">
-                      <span class="badge badge-pill badge-primary-soft">
-                        <span class="h6 font-weight-bold text-uppercase">Enterprise</span>
-                      </span>
-                    </p>
-
-                    <!-- Text -->
-                    <p class="lead text-center text-muted mb-0 mb-md-10">
-                      We offer variable pricing with discounts for larger organizations. Get in touch with us and we’ll figure out something that works for everyone.
-                    </p>
-
-                  </div>
-                </div> <!-- / .row -->
-              </div>
-
-              <!-- Button -->
-              <a href="#!" class="card-btn btn btn-block btn-lg btn-light bg-gray-300 text-gray-700">
-                Contact us
-              </a>
-
-            </div>
-
-          </div>
-        </div> <!-- / .row -->
-      </div> <!-- / .container -->
-    </section>
-
-    <!-- SHAPE
-    ================================================== -->
-    <div class="position-relative mt-n15">
-      <div class="shape shape-bottom shape-fluid-x svg-shim text-dark">
-        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"/></svg>
-      </div>
-    </div>
-
-    <!-- FAQ
-    ================================================== -->
-    <section class="pt-15 bg-dark">
-      <div class="container pt-8 pt-md-11">
-        <div class="row">
-          <div class="col-12 col-md-6">
-
-            <!-- Item -->
-            <div class="d-flex">
-
-              <!-- Badge -->
-              <div class="badge badge-lg badge-rounded-circle badge-success">
-                <span>?</span>
-              </div>
-
-              <div class="ml-5">
-
-                <!-- Heading -->
-                <h4 class="text-white">
-                  Can I use Landkit for my clients?
-                </h4>
-
-                <!-- Text -->
-                <p class="text-muted mb-6 mb-md-8">
-                  Absolutely. The Bootstrap Themes license allows you to build a websites for personal use or for a client.
-                </p>
-
-              </div>
-
-            </div>
-
-            <!-- Item -->
-            <div class="d-flex">
-
-              <!-- Badge -->
-              <div class="badge badge-lg badge-rounded-circle badge-success">
-                <span>?</span>
-              </div>
-
-              <div class="ml-5">
-
-                <!-- Heading -->
-                <h4 class="text-white">
-                  Do I get free updates?
-                </h4>
-
-                <!-- Text -->
-                <p class="text-muted mb-6 mb-md-0">
-                  Yes. We update all of our themes with each Bootstrap update, plus are constantly adding new components, pages, and features to our themes.
-                </p>
-
-              </div>
-
-            </div>
-
-          </div>
-          <div class="col-12 col-md-6">
-
-            <!-- Item -->
-            <div class="d-flex">
-
-              <!-- Badge -->
-              <div class="badge badge-lg badge-rounded-circle badge-success">
-                <span>?</span>
-              </div>
-
-              <div class="ml-5">
-
-                <!-- Heading -->
-                <h4 class="text-white">
-                  Is there a money back guarantee?
-                </h4>
-
-                <!-- Text -->
-                <p class="text-muted mb-6 mb-md-8">
-                  Yup! Bootstrap Themes come with a satisfaction guarantee. Submit a return and get your money back.
-                </p>
-
-              </div>
-
-            </div>
-
-            <!-- Item -->
-            <div class="d-flex">
-
-              <!-- Badge -->
-              <div class="badge badge-lg badge-rounded-circle badge-success">
-                <span>?</span>
-              </div>
-
-              <div class="ml-5">
-
-                <!-- Heading -->
-                <h4 class="text-white">
-                  Does it work with Rails? React? Laravel?
-                </h4>
-
-                <!-- Text -->
-                <p class="text-muted mb-6 mb-md-0">
-                  Yes. Landkit has basic CSS/JS files you can include. If you want to enable deeper customization, you can integrate it into your  pipeline or build processes.
-                </p>
-
-              </div>
-
-            </div>
-
-          </div>
-        </div> <!-- / .row -->
-      </div> <!-- / .container -->
-    </section>
-
-    <!-- CTA
-    ================================================== -->
-    <section class="py-8 py-md-11 bg-dark">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 col-md-10 col-lg-8 text-center">
-
-            <!-- Badge -->
-            <span class="badge badge-pill badge-gray-700-soft mb-4">
-              <span class="h6 font-weight-bold text-uppercase">Get started</span>
-            </span>
-
-            <!-- Heading -->
-            <h1 class="display-4 text-white">
-              Get Landkit and save your time.
-            </h1>
-
-            <!-- Text -->
-            <p class="font-size-lg text-muted mb-6 mb-md-8">
-              Stop wasting time trying to do it the "right way" and build a site from scratch. Landkit is faster, easier, and you still have complete control.
-            </p>
-
-            <!-- Button -->
-            <a href="https://themes.getbootstrap.com/product/landkit/" target="_blank" class="btn btn-success lift">
-              Buy it now <i class="fe fe-arrow-right"></i>
+            <a class="btn btn-block btn-primary btn-lg mb-10 lift ml-auto" href="mailto:someone@yoursite.com?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
+              Get in touch and let's build something amazing
             </a>
-
           </div>
         </div> <!-- / .row -->
-      </div> <!-- / .container -->
-    </section>
-
-    <!-- SHAPE
-    ================================================== -->
-    <div class="position-relative">
-      <div class="shape shape-bottom shape-fluid-x svg-shim text-gray-200">
-        <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"/></svg>
       </div>
-    </div>
-
-    <!-- FOOTER
-    ================================================== -->
-    <footer class="py-8 py-md-11 bg-gray-200">
-      <div class="container">
-        <div class="row">
-          <div class="col-12 col-md-4 col-lg-3">
-
-            <!-- Brand -->
-            <img src="./img/or-equals-logo.png" alt="..." class="footer-brand img-fluid mb-2">
-
-            <!-- Text -->
-            <p class="text-gray-700 mb-2">
-              A better way to build software.
-            </p>
-
-            <!-- Social -->
-            <ul class="list-unstyled list-inline list-social mb-6 mb-md-0">
-              <li class="list-inline-item list-social-item mr-3">
-                <a href="#!" class="text-decoration-none">
-                  <img src="./img/icons/social/instagram.svg" class="list-social-icon" alt="...">
-                </a>
-              </li>
-              <li class="list-inline-item list-social-item mr-3">
-                <a href="#!" class="text-decoration-none">
-                  <img src="./img/icons/social/facebook.svg" class="list-social-icon" alt="...">
-                </a>
-              </li>
-              <li class="list-inline-item list-social-item mr-3">
-                <a href="#!" class="text-decoration-none">
-                  <img src="./img/icons/social/twitter.svg" class="list-social-icon" alt="...">
-                </a>
-              </li>
-              <li class="list-inline-item list-social-item">
-                <a href="#!" class="text-decoration-none">
-                  <img src="./img/icons/social/pinterest.svg" class="list-social-icon" alt="...">
-                </a>
-              </li>
-            </ul>
-
-          </div>
-          <div class="col-6 col-md-4 col-lg-2">
-
-            <!-- Heading -->
-            <h6 class="font-weight-bold text-uppercase text-gray-700">
-              Products
-            </h6>
-
-            <!-- List -->
-            <ul class="list-unstyled text-muted mb-6 mb-md-8 mb-lg-0">
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Page Builder
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  UI Kit
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Styleguide
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Documentation
-                </a>
-              </li>
-              <li>
-                <a href="#!" class="text-reset">
-                  Changelog
-                </a>
-              </li>
-            </ul>
-
-          </div>
-          <div class="col-6 col-md-4 col-lg-2">
-
-            <!-- Heading -->
-            <h6 class="font-weight-bold text-uppercase text-gray-700">
-              Services
-            </h6>
-
-            <!-- List -->
-            <ul class="list-unstyled text-muted mb-6 mb-md-8 mb-lg-0">
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Documentation
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Changelog
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Pagebuilder
-                </a>
-              </li>
-              <li>
-                <a href="#!" class="text-reset">
-                  UI Kit
-                </a>
-              </li>
-            </ul>
-
-          </div>
-          <div class="col-6 col-md-4 offset-md-4 col-lg-2 offset-lg-0">
-
-            <!-- Heading -->
-            <h6 class="font-weight-bold text-uppercase text-gray-700">
-              Connect
-            </h6>
-
-            <!-- List -->
-            <ul class="list-unstyled text-muted mb-0">
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Page Builder
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  UI Kit
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Styleguide
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Documentation
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Changelog
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Documentation
-                </a>
-              </li>
-              <li>
-                <a href="#!" class="text-reset">
-                  Changelog
-                </a>
-              </li>
-            </ul>
-
-          </div>
-          <div class="col-6 col-md-4 col-lg-2">
-
-            <!-- Heading -->
-            <h6 class="font-weight-bold text-uppercase text-gray-700">
-              Legal
-            </h6>
-
-            <!-- List -->
-            <ul class="list-unstyled text-muted mb-0">
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Documentation
-                </a>
-              </li>
-              <li class="mb-3">
-                <a href="#!" class="text-reset">
-                  Changelog
-                </a>
-              </li>
-              <li>
-                <a href="#!" class="text-reset">
-                  Pagebuilder
-                </a>
-              </li>
-            </ul>
-
-          </div>
-        </div> <!-- / .row -->
-      </div> <!-- / .container -->
-    </footer>
+    </section>
 
 <style>
   .mh-40 {
