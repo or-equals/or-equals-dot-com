@@ -44,7 +44,8 @@
         </ul>
 
         <!-- Button -->
-        <a class="navbar-btn btn btn-sm btn-primary white lift ml-auto" href="https://themes.getbootstrap.com/product/landkit/" target="_blank">
+        <a class="navbar-btn btn btn-sm btn-primary white lift ml-auto" href="mailto:someone@yoursite.com?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
+          <a href="">Email Us</a>
           Get in touch
         </a>
 
@@ -806,44 +807,6 @@
           </div>
         </div> <!-- / .row -->
       </div> <!-- / .container -->
-
-      <div class="card shadow-light-lg lift lift-lg">
-
-        <!-- Shape -->
-        <div class="position-relative">
-          <div class="shape shape-bottom shape-fluid-x svg-shim text-white">
-            <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
-          </div>
-        </div>
-
-        <!-- Body -->
-        <div class="card-body">
-
-          <!-- Form -->
-          <form name="contact" method="POST" data-netlify="true">
-            <p>
-              <label>Your Name: <input type="text" name="name" /></label>
-            </p>
-            <p>
-              <label>Your Email: <input type="email" name="email" /></label>
-            </p>
-            <p>
-              <label>Your Role: <select name="role[]" multiple>
-                  <option value="leader">Leader</option>
-                  <option value="follower">Follower</option>
-                </select></label>
-            </p>
-            <p>
-              <label>Message: <textarea name="message"></textarea></label>
-            </p>
-            <p>
-              <button type="submit">Send</button>
-            </p>
-          </form>
-
-        </div>
-
-      </div>
     </section>
 
     <!-- SHAPE
@@ -1049,7 +1012,6 @@
   a:visited {
     color: white;
   }
-
   .mw-lg-110 {
     max-width: 110%!important;
   }
