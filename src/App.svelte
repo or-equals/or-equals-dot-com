@@ -444,8 +444,8 @@
         </ul>
 
         <!-- Button -->
-        <a class="navbar-btn btn btn-sm btn-primary lift ml-auto" href="https://themes.getbootstrap.com/product/landkit/" target="_blank">
-          Buy now
+        <a class="navbar-btn btn btn-sm btn-primary white lift ml-auto" href="https://themes.getbootstrap.com/product/landkit/" target="_blank">
+          Get in touch
         </a>
 
       </div>
@@ -462,29 +462,25 @@
           <div class="col-12 col-md-5 col-lg-6 order-md-2">
 
             <!-- Image -->
-            <img src="/img/illustrations/illustration-2.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+            <img src="/img/patient_pilot_award.jpg" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
 
           </div>
           <div class="col-12 col-md-7 col-lg-6 order-md-1">
 
             <!-- Heading -->
             <h1 class="display-3 text-center text-md-left">
-              Welcome to <span class="text-primary">Landkit</span>. <br>
-              Develop anything.
+              Award Winning <span class="text-primary">Business Software Development</span>. <br>
             </h1>
 
             <!-- Text -->
             <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8">
-              Build a beautiful, modern website with flexible Bootstrap components built from scratch.
+              We are web software development consultants who specialize in delivering massive cost reductions to business owners by eliminating time-intensive processes.
             </p>
 
             <!-- Buttons -->
             <div class="text-center text-md-left">
               <a href="overview.html" class="btn btn-primary shadow lift mr-1">
-                View all pages <i class="fe fe-arrow-right d-none d-md-inline ml-3"></i>
-              </a>
-              <a href="docs/index.html" class="btn btn-primary-soft lift">
-                Documentation
+                See our work <i class="fe fe-arrow-right d-none d-md-inline ml-3"></i>
               </a>
             </div>
 
