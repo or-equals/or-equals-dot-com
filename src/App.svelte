@@ -820,25 +820,25 @@
         <div class="card-body">
 
           <!-- Form -->
-          <form netlify>
-            <div class="form-label-group">
-              <input type="text" class="form-control form-control-flush" id="cardName" placeholder="Name">
-              <label for="cardName">Name</label>
-            </div>
-            <div class="form-label-group">
-              <input type="email" class="form-control form-control-flush" id="cardEmail" placeholder="Email">
-              <label for="cardEmail">Email</label>
-            </div>
-            <div class="form-label-group">
-              <textarea id="cardProject" class="form-control form-control-flush" placeholder="Tell us about your project">
-              </textarea>
-              <label for="cardProject">Tell us about your project</label>
-            </div>
-            <div class="mt-6">
-              <button class="btn btn-block btn-success lift" type="submit">
-                Send
-              </button>
-            </div>
+          <form name="contact" method="POST" data-netlify="true">
+            <p>
+              <label>Your Name: <input type="text" name="name" /></label>
+            </p>
+            <p>
+              <label>Your Email: <input type="email" name="email" /></label>
+            </p>
+            <p>
+              <label>Your Role: <select name="role[]" multiple>
+                  <option value="leader">Leader</option>
+                  <option value="follower">Follower</option>
+                </select></label>
+            </p>
+            <p>
+              <label>Message: <textarea name="message"></textarea></label>
+            </p>
+            <p>
+              <button type="submit">Send</button>
+            </p>
           </form>
 
         </div>
