@@ -7,8 +7,8 @@
     <div class="container">
 
       <!-- Brand -->
-      <a class="navbar-brand" href="./index.html">
-        <img src="./img/brand.svg" class="navbar-brand-img" alt="...">
+      <a class="navbar-brand" href="./">
+        <img src="./img/or-equals-logo.png" alt="Or Equals" class="navbar-brand-img">
       </a>
 
       <!-- Toggler -->
@@ -26,319 +26,20 @@
 
         <!-- Navigation -->
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="navbarLandings" data-toggle="dropdown" href="#foo" aria-haspopup="true" aria-expanded="false">
-              Landings
-            </a>
-            <div class="dropdown-menu dropdown-menu-xl p-0" aria-labelledby="navbarLandings">
-              <div class="row no-gutters">
-                <div class="col-12 col-lg-6">
-                  <div class="dropdown-img-left" style="background-image: url(./img/photos/photo-3.jpg);">
-
-                    <!-- Heading -->
-                    <h4 class="font-weight-bold text-white mb-0">
-                      Want to see an overview?
-                    </h4>
-
-                    <!-- Text -->
-                    <p class="font-size-sm text-white">
-                      See all the pages at once.
-                    </p>
-
-                    <!-- Button -->
-                    <a href="./overview.html" class="btn btn-sm btn-white shadow-dark fonFt-size-sm">
-                      View all pages
-                    </a>
-
-                  </div>
-                </div>
-                <div class="col-12 col-lg-6">
-                  <div class="dropdown-body">
-                    <div class="row no-gutters">
-                      <div class="col-6">
-
-                        <!-- Heading -->
-                        <h6 class="dropdown-header">
-                          Services
-                        </h6>
-
-                        <!-- List -->
-                        <a class="dropdown-item" href="./coworking.html">
-                          Coworking
-                        </a>
-                        <a class="dropdown-item" href="./rental.html">
-                          Rental
-                        </a>
-                        <a class="dropdown-item mb-5" href="./job.html">
-                          Job Listing
-                        </a>
-
-                        <!-- Heading -->
-                        <h6 class="dropdown-header">
-                          Apps
-                        </h6>
-
-                        <!-- List -->
-                        <a class="dropdown-item" href="./desktop-app.html">
-                          Desktop
-                        </a>
-                        <a class="dropdown-item" href="./mobile-app.html">
-                          Mobile
-                        </a>
-
-                      </div>
-                      <div class="col-6">
-
-                        <!-- Heading -->
-                        <h6 class="dropdown-header">
-                          Web
-                        </h6>
-
-                        <!-- List -->
-                        <a class="dropdown-item" href="./index.html">
-                          Basic
-                        </a>
-                        <a class="dropdown-item" href="./startup.html">
-                          Startup <span class="h6 text-uppercase text-primary">(new)</span>
-                        </a>
-                        <a class="dropdown-item" href="./enterprise.html">
-                          Enterprise
-                        </a>
-                        <a class="dropdown-item" href="./service.html">
-                          Service
-                        </a>
-                        <a class="dropdown-item" href="./cloud.html">
-                          Cloud Hosting
-                        </a>
-                        <a class="dropdown-item" href="./agency.html">
-                          Agency
-                        </a>
-
-                      </div>
-                    </div> <!-- / .row -->
-                  </div>
-                </div>
-              </div> <!-- / .row -->
-            </div>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="navbarPages" data-toggle="dropdown" href="#foo" aria-haspopup="true" aria-expanded="false">
-              Pages
-            </a>
-            <div class="dropdown-menu dropdown-menu-lg" aria-labelledby="navbarPages">
-              <div class="row no-gutters">
-                <div class="col-6">
-                  <div class="row no-gutters">
-                    <div class="col-12 col-lg-6">
-
-                      <!-- Heading -->
-                      <h6 class="dropdown-header">
-                        Career
-                      </h6>
-
-                      <!-- List -->
-                      <a class="dropdown-item" href="./careers.html">
-                        Listing
-                      </a>
-                      <a class="dropdown-item mb-5" href="./career-single.html">
-                        Opening
-                      </a>
-
-                      <!-- Heading -->
-                      <h6 class="dropdown-header">
-                        Company
-                      </h6>
-
-                      <!-- List -->
-                      <a class="dropdown-item" href="./about.html">
-                        About
-                      </a>
-                      <a class="dropdown-item" href="./pricing.html">
-                        Pricing
-                      </a>
-                      <a class="dropdown-item mb-5 mb-lg-0" href="./terms-of-service.html">
-                        Terms
-                      </a>
-
-                    </div>
-                    <div class="col-12 col-lg-6">
-
-                      <!-- Heading -->
-                      <h6 class="dropdown-header">
-                        Help center
-                      </h6>
-
-                      <!-- List -->
-                      <a class="dropdown-item" href="./help-center.html">
-                        Overview
-                      </a>
-                      <a class="dropdown-item mb-5" href="./help-center-article.html">
-                        Article
-                      </a>
-
-                      <!-- Heading -->
-                      <h6 class="dropdown-header">
-                        Contact
-                      </h6>
-
-                      <!-- List -->
-                      <a class="dropdown-item" href="./contact.html">
-                        Basic
-                      </a>
-                      <a class="dropdown-item" href="./contact-alt.html">
-                        Cover
-                      </a>
-
-                    </div>
-                  </div>
-                </div>
-                <div class="col-6">
-                  <div class="row no-gutters">
-                    <div class="col-12 col-lg-6">
-
-                      <!-- Heading -->
-                      <h6 class="dropdown-header">
-                        Blog
-                      </h6>
-
-                      <!-- List -->
-                      <a class="dropdown-item" href="./blog.html">
-                        Rich View
-                      </a>
-                      <a class="dropdown-item" href="./blog-post.html">
-                        Article
-                      </a>
-                      <a class="dropdown-item" href="./blog-showcase.html">
-                        Showcase
-                      </a>
-                      <a class="dropdown-item mb-5 mb-lg-0" href="./blog-search.html">
-                        Search
-                      </a>
-
-                    </div>
-                    <div class="col-12 col-lg-6">
-
-                      <!-- Heading -->
-                      <h6 class="dropdown-header">
-                        Portfolio <span class="h6 text-uppercase text-primary">(new)</span>
-                      </h6>
-
-                      <!-- List -->
-                      <a class="dropdown-item" href="./portfolio-masonry.html">
-                        Masonry
-                      </a>
-                      <a class="dropdown-item" href="./portfolio-grid-rows.html">
-                        Grid Rows
-                      </a>
-                      <a class="dropdown-item" href="./portfolio-parallax.html">
-                        Parallax
-                      </a>
-                      <a class="dropdown-item" href="./portfolio-case-study.html">
-                        Case Study
-                      </a>
-                      <a class="dropdown-item" href="./portfolio-sidebar.html">
-                        Sidebar
-                      </a>
-                      <a class="dropdown-item" href="./portfolio-sidebar-fluid.html">
-                        Sidebar: Fluid
-                      </a>
-                      <a class="dropdown-item" href="./portfolio-grid.html">
-                        Basic Grid
-                      </a>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div> <!-- / .row -->
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="navbarAccount" data-toggle="dropdown" href="#foo" aria-haspopup="true" aria-expanded="false">
-              Account
+          <li class="nav-item">
+            <a class="nav-link" href="#services" >
+              Services
             </a>
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" id="navbarDocumentation" data-toggle="dropdown" href="#foo" aria-haspopup="true" aria-expanded="false">
-              Documentation
+          <li class="nav-item">
+            <a class="nav-link" href="#our-work" >
+              Our Work
             </a>
-            <div class="dropdown-menu dropdown-menu-md" aria-labelledby="navbarDocumentation">
-              <div class="list-group list-group-flush">
-                <a class="list-group-item" href="./docs/index.html">
-
-                  <!-- Icon -->
-                  <div class="icon icon-sm text-primary">
-                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M8 3v.5A1.5 1.5 0 009.5 5h5A1.5 1.5 0 0016 3.5V3h2a2 2 0 012 2v16a2 2 0 01-2 2H6a2 2 0 01-2-2V5a2 2 0 012-2h2z" fill="#335EEA" opacity=".3"/><path d="M11 2a1 1 0 012 0h1.5a.5.5 0 01.5.5v1a.5.5 0 01-.5.5h-5a.5.5 0 01-.5-.5v-1a.5.5 0 01.5-.5H11z" fill="#335EEA"/><rect fill="#335EEA" opacity=".3" x="7" y="10" width="5" height="2" rx="1"/><rect fill="#335EEA" opacity=".3" x="7" y="14" width="9" height="2" rx="1"/></g></svg>
-                  </div>
-
-                  <!-- Content -->
-                  <div class="ml-4">
-
-                    <!-- Heading -->
-                    <h6 class="font-weight-bold text-uppercase text-primary mb-0">
-                      Documentation
-                    </h6>
-
-                    <!-- Text -->
-                    <p class="font-size-sm text-gray-700 mb-0">
-                      Customizing and building
-                    </p>
-
-                  </div>
-
-                </a>
-                <a class="list-group-item" href="./docs/alerts.html">
-
-                  <!-- Icon -->
-                  <div class="icon icon-sm text-primary">
-                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><rect fill="#335EEA" x="4" y="4" width="7" height="7" rx="1.5"/><path d="M5.5 13h4a1.5 1.5 0 011.5 1.5v4A1.5 1.5 0 019.5 20h-4A1.5 1.5 0 014 18.5v-4A1.5 1.5 0 015.5 13zm9-9h4A1.5 1.5 0 0120 5.5v4a1.5 1.5 0 01-1.5 1.5h-4A1.5 1.5 0 0113 9.5v-4A1.5 1.5 0 0114.5 4zm0 9h4a1.5 1.5 0 011.5 1.5v4a1.5 1.5 0 01-1.5 1.5h-4a1.5 1.5 0 01-1.5-1.5v-4a1.5 1.5 0 011.5-1.5z" fill="#335EEA" opacity=".3"/></g></svg>
-                  </div>
-
-                  <!-- Content -->
-                  <div class="ml-4">
-
-                    <!-- Heading -->
-                    <h6 class="font-weight-bold text-uppercase text-primary mb-0">
-                      Components
-                    </h6>
-
-                    <!-- Text -->
-                    <p class="font-size-sm text-gray-700 mb-0">
-                      Full list of components
-                    </p>
-
-                  </div>
-
-                </a>
-                <a class="list-group-item" href="./docs/changelog.html">
-
-                  <!-- Icon -->
-                  <div class="icon icon-sm text-primary">
-                    <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M5.857 2h7.88a1.5 1.5 0 01.968.355l4.764 4.029A1.5 1.5 0 0120 7.529v12.554c0 1.79-.02 1.917-1.857 1.917H5.857C4.02 22 4 21.874 4 20.083V3.917C4 2.127 4.02 2 5.857 2z" fill="#335EEA" opacity=".3"/><rect fill="#335EEA" x="6" y="11" width="9" height="2" rx="1"/><rect fill="#335EEA" x="6" y="15" width="5" height="2" rx="1"/></g></svg>
-                  </div>
-
-                  <!-- Content -->
-                  <div class="ml-4">
-
-                    <!-- Heading -->
-                    <h6 class="font-weight-bold text-uppercase text-primary mb-0">
-                      Changelog
-                    </h6>
-
-                    <!-- Text -->
-                    <p class="font-size-sm text-gray-700 mb-0">
-                      Keep track of changes
-                    </p>
-
-                  </div>
-
-                  <!-- Badge -->
-                  <span class="badge badge-pill badge-primary-soft ml-auto">
-                    1.2.0
-                  </span>
-
-                </a>
-              </div>
-            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#about" >
+              Why Or Equals?
+            </a>
           </li>
         </ul>
 
@@ -351,8 +52,6 @@
 
     </div>
   </nav>
-
-
   <!-- WELCOME
     ================================================== -->
     <section class="pt-4 pt-md-11">
@@ -361,7 +60,7 @@
           <div class="col-12 col-md-5 col-lg-6 order-md-2">
 
             <!-- Image -->
-            <img src="/img/patient_pilot_award.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+            <img src="/img/patient_pilot_award.png" class="img-fluid mw-md-150 mw-lg-110 mb-6 mb-md-0" alt="...">
 
           </div>
           <div class="col-12 col-md-7 col-lg-6 order-md-1">
@@ -474,7 +173,7 @@
 
       <!-- ABOUT
         ================================================== -->
-        <section class="pt-8 pt-md-11 bg-gradient-light">
+        <section class="pt-8 pt-md-11 bg-gradient-light" id='services'>
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-12 col-md-10 col-lg-8 text-center">
@@ -584,7 +283,7 @@
 
                           <!-- Heading -->
                           <h2>
-                            Our customers get bottom-line results.
+                            Our customers make or save money from their software. That's the bottom-line.
                           </h2>
 
                           <!-- Text -->
@@ -1107,6 +806,44 @@
           </div>
         </div> <!-- / .row -->
       </div> <!-- / .container -->
+
+      <div class="card shadow-light-lg lift lift-lg">
+
+        <!-- Shape -->
+        <div class="position-relative">
+          <div class="shape shape-bottom shape-fluid-x svg-shim text-white">
+            <svg viewBox="0 0 2880 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 48h2880V0h-720C1442.5 52 720 0 720 0H0v48z" fill="currentColor"></path></svg>
+          </div>
+        </div>
+
+        <!-- Body -->
+        <div class="card-body">
+
+          <!-- Form -->
+          <form netlify>
+            <div class="form-label-group">
+              <input type="text" class="form-control form-control-flush" id="cardName" placeholder="Name">
+              <label for="cardName">Name</label>
+            </div>
+            <div class="form-label-group">
+              <input type="email" class="form-control form-control-flush" id="cardEmail" placeholder="Email">
+              <label for="cardEmail">Email</label>
+            </div>
+            <div class="form-label-group">
+              <textarea id="cardProject" class="form-control form-control-flush" placeholder="Tell us about your project">
+              </textarea>
+              <label for="cardProject">Tell us about your project</label>
+            </div>
+            <div class="mt-6">
+              <button class="btn btn-block btn-success lift" type="submit">
+                Send
+              </button>
+            </div>
+          </form>
+
+        </div>
+
+      </div>
     </section>
 
     <!-- SHAPE
@@ -1125,11 +862,11 @@
           <div class="col-12 col-md-4 col-lg-3">
 
             <!-- Brand -->
-            <img src="./img/brand.svg" alt="..." class="footer-brand img-fluid mb-2">
+            <img src="./img/or-equals-logo.png" alt="..." class="footer-brand img-fluid mb-2">
 
             <!-- Text -->
             <p class="text-gray-700 mb-2">
-              A better way to build.
+              A better way to build software.
             </p>
 
             <!-- Social -->
@@ -1307,5 +1044,13 @@
 <style>
   .mh-40 {
     max-height: 40px;
+  }
+
+  a:visited {
+    color: white;
+  }
+
+  .mw-lg-110 {
+    max-width: 110%!important;
   }
 </style>
