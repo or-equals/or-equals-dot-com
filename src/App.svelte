@@ -109,7 +109,7 @@
 
               <!-- Text -->
               <p class="text-muted mb-6 mb-md-0">
-                The Elixir language's Phoenix framework is the epitome of cutting edge excellence. We build highly interactive realtime web applications using the same technology of our nation's rock solid telecomm network.
+                The Elixir language's Phoenix framework is the epitome of cutting edge open source software. With Phoenix, we build highly interactive realtime web applications using the same technology of our nation's rock solid telecomm network.
               </p>
 
             </div>
@@ -127,7 +127,7 @@
 
               <!-- Text -->
               <p class="text-muted mb-6 mb-md-0">
-                The gold standard of getting quickly from idea to market is Ruby on Rails. Twitter, AirBnB, and Hulu all began with small, highly productive teams using this technology.
+                The gold standard of getting from back-of-the-napkin idea to market quickly is Ruby on Rails. Twitter, AirBnB, Twitch, and Hulu all began with small, highly productive teams using this technology.
               </p>
 
             </div>
@@ -187,7 +187,7 @@
 
                 <!-- Heading -->
                 <h2 class="font-weight-bold">
-                  Instead of spending money on software, let's build you software that makes money.
+                  Instead of spending money on software, let's build software that makes you money.
                 </h2>
 
                 <!-- Text -->
@@ -268,7 +268,7 @@
 
             <!-- Text -->
             <p class="text-muted mb-8">
-              Taking broad ideas and turning them into concrete features that save you money is what we specialize in.
+              Taking broad ideas and turning them into a concrete software plan is what we specialize in. All of our software projects begin with a detailed plan of attack.
             </p>
 
           </div>
@@ -285,7 +285,7 @@
 
                           <!-- Heading -->
                           <h2 id="our-work">
-                            Our customers streamline tedious processes through software.
+                            Our customers streamline tedious processes through bespoke software.
                           </h2>
 
                           <!-- Text -->
@@ -331,12 +331,12 @@
                                         <iframe width="560" height="315" src="https://www.youtube.com/embed/brf_ek749eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         <!-- Text -->
                                         <p class="mb-5 mb-md-7">
-                                          We worked with zencase for 2 years to turn a bespoke back-office full-stack Rails application into a separate EmberJS frontend that communicates with a Rails API.
+                                          We worked with zencase for 2 years to turn a back-office full-stack Rails application into a separate EmberJS frontend that communicates with a Rails API.
                                           We think that they have a very powerful piece of software with the potential to disrupt the legal space.
                                         </p>
 
                                         <p class="mb-5 mb-md-7">
-                                          TJ's law firm was able to double his law firm's billable time because of the software.
+                                          After the software build, TJ's law firm was able to double billable time across his entire team.
                                         </p>
 
                                         <!-- Footer -->
@@ -374,7 +374,7 @@
                                         </p>
 
                                         <p class="mb-5 mb-md-7">
-                                          It's a Progressive Web App (you can download it on your phone) that helps streamline the process of surgeons educating their patients.
+                                          It's a Progressive Web App (you can download it on your phone) that helps streamline the process of surgeons educating their patients on elective surgeries.
                                           This was a big event put on by the city of Palm Coast, Florida.
                                         </p>
 
@@ -553,9 +553,8 @@
     max-height: 40px;
   }
 
-  a.navbar-btn:visited {
+  a.navbar-btn:visited, .btn-block {
     color: white;
-
   }
   .mw-lg-110 {
     max-width: 110%!important;
