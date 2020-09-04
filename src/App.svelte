@@ -560,4 +560,8 @@
   iframe {
     max-width: 100%;
   }
+
+  .navbar-toggler-icon {
+    display: none;
+  }
 </style>
