@@ -144,7 +144,7 @@
               </div>
 
               <!-- Text -->
-              <p class="text-muted mb-0">
+              <p class="text-muted mb-6 mb-0">
                 Using EmberJS, we opt in to best-in-class all-in-one tooling for building reliable user interaces.
               </p>
 
