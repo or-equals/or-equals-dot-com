@@ -328,7 +328,7 @@
                                         <iframe width="560" height="315" title="Zencase Overview" src="https://www.youtube.com/embed/brf_ek749eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         <!-- Text -->
                                         <p class="mb-5 mb-md-7">
-                                          We worked with zencase for 2 years to turn a back-office full-stack Rails application into a separate EmberJS frontend that communicates with a Rails API.
+                                          We worked with ZenCase for 2 years to turn a back-office full-stack Rails application into a separate EmberJS frontend that communicates with a Rails API.
                                           We think that they have a very powerful piece of software with the potential to disrupt the legal space.
                                         </p>
 
@@ -493,7 +493,7 @@
               <br>
 
               Joshua's career began under the tutelage of the world-class developers of Hashrocket, a lauded Ruby-on-Rails shop. After apprenticing there for a year, he honed his skills for 4 years
-              at zencase, a legal practice management startup. When things started taking off at the startup, he fielded a rockstar team of EmberJS and Rails developers.
+              at ZenCase, a legal practice management startup. When things started taking off at the startup, he fielded a rockstar team of EmberJS and Rails developers.
 
               <br>
               <br>
