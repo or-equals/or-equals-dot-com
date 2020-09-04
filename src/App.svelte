@@ -285,7 +285,7 @@
 
                           <!-- Heading -->
                           <h2 id="our-work">
-                            Our customers streamline tedious processes through bespoke software.
+                            Our customers streamline their tedious processes with bespoke software.
                           </h2>
 
                           <!-- Text -->
