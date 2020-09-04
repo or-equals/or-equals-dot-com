@@ -62,7 +62,7 @@
           <div class="col-12 col-md-5 col-lg-6 order-md-2">
 
             <!-- Image -->
-            <img src="/img/patient_pilot_award.png" class="img-fluid mw-md-150 mw-lg-110 mb-6 mb-md-0" alt="...">
+            <img src="/img/patient_pilot_award.png" class="img-fluid mw-md-150 mw-lg-100 mb-6 mb-md-0" alt="...">
 
           </div>
           <div class="col-12 col-md-7 col-lg-6 order-md-1">
@@ -301,9 +301,6 @@
                           <!-- Card -->
                           <div class="card card-row shadow-light-lg mb-6">
                             <div class="row no-gutters">
-                              <div class="col-12">
-                                <img src="/img/photos/photo-1.jpg" alt="..." class="img-fluid d-md-none">
-                              </div>
                               <div class="col-12 position-md-static">
 
                                 <!-- Slider -->
@@ -556,7 +553,11 @@
   a.navbar-btn:visited, .btn-block {
     color: white;
   }
-  .mw-lg-110 {
+  .mw-lg-100 {
     max-width: 110%!important;
+  }
+
+  iframe {
+    max-width: 100%;
   }
 </style>
