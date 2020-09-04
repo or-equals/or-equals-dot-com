@@ -80,7 +80,11 @@
             <!-- Buttons -->
             <div class="text-center text-md-left">
               <a href="#our-work" class="btn btn-primary shadow lift mr-1">
-                See our work <i class="fe fe-arrow-right d-none d-md-inline ml-3"></i>
+                See our work <i class="fe fe-arrow-right d-none d-sm-inline ml-3"></i>
+              </a>
+
+              <a class="btn btn-secondary shadow lift mr-1 d-lg-none" href="mailto:josh@ghed.dev?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
+                Get in touch
               </a>
             </div>
 
