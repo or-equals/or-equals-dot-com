@@ -367,7 +367,7 @@
                                         <iframe width="560" height="315" title="Patient Pilot Pitch" src="https://www.youtube.com/embed/PNht4lo_UGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         <!-- Text -->
                                         <p class="mb-5 mb-md-7">
-                                          Collaborating with Jitesh Doshi of <a href='http://www.spinspire.com' target="_blank">Spinspire</a>, we built Patient Pilot in 24 hours.
+                                          Collaborating with Jitesh Doshi of <a href='http://www.spinspire.com' target="_blank">Spinspire</a> and Dr. Arnold Silverberg, we built Patient Pilot in 24 hours.
                                         </p>
 
                                         <p class="mb-5 mb-md-7">
