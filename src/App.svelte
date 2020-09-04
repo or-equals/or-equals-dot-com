@@ -491,7 +491,7 @@
             <div class="lead text-muted-80 mb-0">
 
               In October 2019, Joshua Plicque left a Software Engineering Lead position to pursue his personal passion of day trading in the stock market.
-              Along the way, in January 2020, he found himself blessed with opportunities to solve 3 company's business problems through software.
+              Along the way, in January 2020, he found himself blessed with opportunities to solve three company's business problems through software. Or Equals was born.
 
               <br>
               <br>
