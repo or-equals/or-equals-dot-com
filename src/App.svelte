@@ -79,7 +79,7 @@
 
             <!-- Buttons -->
             <div class="text-center text-md-left">
-              <a href="overview.html" class="btn btn-primary shadow lift mr-1">
+              <a href="#our-work" class="btn btn-primary shadow lift mr-1">
                 See our work <i class="fe fe-arrow-right d-none d-md-inline ml-3"></i>
               </a>
             </div>
@@ -550,7 +550,7 @@
     max-height: 40px;
   }
 
-  a.navbar-btn:visited, .btn-block {
+  a.navbar-btn:visited, .btn-block, .text-md-left a {
     color: white;
   }
   .mw-lg-100 {
