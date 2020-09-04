@@ -44,7 +44,7 @@
         </ul>
 
         <!-- Button -->
-        <a class="navbar-btn btn btn-sm btn-primary white lift ml-auto" href="mailto:someone@yoursite.com?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
+        <a class="navbar-btn btn btn-sm btn-primary white lift ml-auto" href="mailto:josh@ghed.dev?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
           Get in touch
         </a>
 
@@ -62,7 +62,7 @@
           <div class="col-12 col-md-5 col-lg-6 order-md-2">
 
             <!-- Image -->
-            <img src="/img/patient_pilot_award.png" class="img-fluid mw-md-150 mw-lg-100 mb-6 mb-md-0" alt="...">
+            <img src="/img/patient_pilot_award-min.png" class="img-fluid mw-md-150 mw-lg-100 mb-6 mb-md-0" alt="...">
 
           </div>
           <div class="col-12 col-md-7 col-lg-6 order-md-1">
@@ -324,8 +324,8 @@
                                           </div>
                                         </div> <!-- / .row -->
 
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/jC8niM6jgyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/brf_ek749eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="560" height="315" title="Zencase Productivity" src="https://www.youtube.com/embed/jC8niM6jgyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="560" height="315" title="Zencase Overview" src="https://www.youtube.com/embed/brf_ek749eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         <!-- Text -->
                                         <p class="mb-5 mb-md-7">
                                           We worked with zencase for 2 years to turn a back-office full-stack Rails application into a separate EmberJS frontend that communicates with a Rails API.
@@ -363,8 +363,8 @@
                                           </div>
                                         </div> <!-- / .row -->
 
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/rSHt7991OgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/PNht4lo_UGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="560" height="315" title="Tech Beach Hackathon" src="https://www.youtube.com/embed/rSHt7991OgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="560" height="315" title="Patient Pilot Pitch" src="https://www.youtube.com/embed/PNht4lo_UGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         <!-- Text -->
                                         <p class="mb-5 mb-md-7">
                                           Collaborating with Jitesh Doshi of <a href='http://www.spinspire.com' target="_blank">Spinspire</a>, we built Patient Pilot in 24 hours.
@@ -431,12 +431,12 @@
 
                                           </div>
                                         </div> <!-- / .row -->
-                                        <img src="/img/splife-ui.png" alt="Splife UI" class="img-fluid">
+                                        <img src="/img/splife-ui-min.png" alt="Splife UI" class="img-fluid">
                                         <!-- Text -->
                                         <p class="mb-5 mt-5 mb-md-7">
                                           We completely rebuilt their application's EmberJS frontend in 5 billable developer weeks.
 
-                                          Using the software methodology of Test Driven Development, we kept a high velocity, delivering value and ensuring that the new software would work every single time.
+                                          Using the software methodology of Test Driven Development, we kept a high velocity, while delivering value and ensuring that the new software would work every single time.
                                         </p>
 
                                         <!-- Footer -->
@@ -537,7 +537,7 @@
               We have a proven track record of cutting business costs, improving productivity, and increasing happiness.
             </p>
 
-            <a class="btn btn-block btn-primary btn-lg mb-10 lift ml-auto" href="mailto:someone@yoursite.com?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
+            <a class="btn btn-block btn-primary btn-lg mb-10 lift ml-auto" href="mailto:josh@ghed.dev?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
               Get in touch and let's build something amazing
             </a>
           </div>
