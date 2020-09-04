@@ -434,7 +434,7 @@
                                         <img src="/img/splife-ui-min.png" alt="Splife UI" class="img-fluid">
                                         <!-- Text -->
                                         <p class="mb-5 mt-5 mb-md-7">
-                                          We completely rebuilt their application's EmberJS frontend in 5 billable developer weeks.
+                                          We completely rebuilt their EmberJS frontend in 5 billable developer weeks.
 
                                           Using the software methodology of Test Driven Development, we kept a high velocity, while delivering value and ensuring that the new software would work every single time.
                                         </p>
