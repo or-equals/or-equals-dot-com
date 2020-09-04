@@ -554,7 +554,7 @@
     color: white;
   }
   .mw-lg-100 {
-    max-width: 110%!important;
+    max-width: 100%!important;
   }
 
   iframe {
