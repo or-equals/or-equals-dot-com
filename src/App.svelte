@@ -290,7 +290,7 @@
 
                           <!-- Text -->
                           <p class="font-size-lg text-muted mb-7 mb-md-9">
-                            Here are a few projects we've done over the years.
+                            Here are a few projects that we've done over the years.
                           </p>
 
                         </div>
