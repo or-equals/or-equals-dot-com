@@ -69,7 +69,7 @@
 
             <!-- Heading -->
             <h1 class="display-3 text-center text-md-left">
-              Award Winning <span class="text-primary">Business Software Development</span>. <br>
+              Award Winning <span class="text-primary">Business Software Development</span><br>
             </h1>
 
             <!-- Text -->
