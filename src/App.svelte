@@ -474,16 +474,12 @@
     <section class="pt-12 pt-md-13 bg-black">
       <div class="container">
         <div class="row justify-content-between align-items-center mb-5" id='about'>
-          <div class="col-12 col-md-4 order-md-2 text-center">
+          <div class="col-12 order-md-1">
 
-            <!-- Image -->
-            <img class="img-fluid w-75 w-md-100 mb-6 mb-md-0" src="img/patient_pilot_award.png" alt="Patient Pilot">
-
-          </div>
-          <div class="col-12 col-md-7 order-md-1">
+            <img class="img-fluid w-75 w-md-100 mb-6 mb-md-0" src="img/patient_pilot_award.png" alt="Patient Pilot" style="max-width: 450px;">
 
             <!-- Heading -->
-            <h2 class="text-white" style="max-width: 450px;">
+            <h2 class="text-white">
               A software development shop obsessed with delivering real-world business value.
             </h2>
 
