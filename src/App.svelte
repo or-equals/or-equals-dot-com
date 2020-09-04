@@ -477,7 +477,7 @@
           <div class="col-12 col-md-4 order-md-2 text-center">
 
             <!-- Image -->
-            <img class="img-fluid w-75 w-md-100 mb-6 mb-md-0" src="img/patient_pilot_award.jpeg" alt="...">
+            <img class="img-fluid w-75 w-md-100 mb-6 mb-md-0" src="img/patient_pilot_award.png" alt="Patient Pilot">
 
           </div>
           <div class="col-12 col-md-7 order-md-1">
