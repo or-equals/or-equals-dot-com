@@ -1,6 +1,8 @@
 <script>
+  function triggerCalendly() {
+    Calendly.initPopupWidget({url: 'https://calendly.com/or-equals/30-minute-discovery-call'});
+  }
 </script>
-
 <!-- NAVBAR
   ================================================== -->
   <nav class="navbar navbar-expand-lg navbar-light bg-white">
@@ -43,10 +45,9 @@
           </li>
         </ul>
 
-        <!-- Button -->
-        <a class="navbar-btn btn btn-sm btn-primary white lift ml-auto" href="mailto:josh@ghed.dev?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
+        <button class="navbar-btn btn btn-sm btn-primary white lift ml-auto" on:click={triggerCalendly}>
           Get in touch
-        </a>
+        </button>
 
       </div>
 
@@ -537,9 +538,9 @@
               We have a proven track record of cutting business costs, improving productivity, and increasing happiness.
             </p>
 
-            <a class="btn btn-block btn-primary btn-lg mb-10 lift ml-auto" href="mailto:josh@ghed.dev?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
-              Get in touch and let's build something amazing
-            </a>
+            <button class="btn btn-block btn-primary btn-lg mb-10 lift ml-auto" on:click={triggerCalendly}>
+              Get in touch
+            </button>
           </div>
         </div> <!-- / .row -->
       </div>
