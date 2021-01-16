@@ -1,396 +1,409 @@
 <script>
   function triggerCalendly() {
-    Calendly.initPopupWidget({url: 'https://calendly.com/or-equals/30-minute-discovery-call'});
-  }
+      Calendly.initPopupWidget({url: 'https://calendly.com/or-equals/30-minute-discovery-call'});
+    }
 </script>
-<!-- NAVBAR
-  ================================================== -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-white">
-    <div class="container">
+<nav class="navbar navbar-expand-lg navbar-light bg-white">
+  <div class="container">
 
-      <!-- Brand -->
-      <a class="navbar-brand" href="./">
-        <img src="./img/or-equals-logo.png" alt="Or Equals" class="navbar-brand-img">
-      </a>
+    <!-- Brand -->
+    <a class="navbar-brand" href="./">
+      <img src="./img/or-equals-logo.png" alt="Or Equals" class="navbar-brand-img">
+    </a>
+
+    <!-- Toggler -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Collapse -->
+    <div class="collapse navbar-collapse" id="navbarCollapse">
 
       <!-- Toggler -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+        <i class="fe fe-x"></i>
       </button>
 
-      <!-- Collapse -->
-      <div class="collapse navbar-collapse" id="navbarCollapse">
+      <!-- Navigation -->
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="#services" >
+            Services
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#our-work" >
+            Our Work
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#about" >
+            Why Or Equals?
+          </a>
+        </li>
+      </ul>
 
-        <!-- Toggler -->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-          <i class="fe fe-x"></i>
-        </button>
-
-        <!-- Navigation -->
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="#services" >
-              Services
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#our-work" >
-              Our Work
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#about" >
-              Why Or Equals?
-            </a>
-          </li>
-        </ul>
-
-        <button class="navbar-btn btn btn-sm btn-primary white lift ml-auto" on:click={triggerCalendly}>
-          Get in touch
-        </button>
-
-      </div>
+      <button class="navbar-btn btn btn-sm btn-primary white lift ml-auto" on:click={triggerCalendly}>
+        Get in touch
+      </button>
 
     </div>
-  </nav>
+
+  </div>
+</nav>
 
 
-  <!-- WELCOME
-    ================================================== -->
-    <section class="pt-4 pt-md-11">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-12 col-md-5 col-lg-6 order-md-2">
+<section class="pt-4 pt-md-11">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-12 col-md-5 col-lg-6 order-md-2">
 
-            <!-- Image -->
-            <img src="/img/patient_pilot_award-min.png" class="img-fluid mw-md-150 mw-lg-100 mb-6 mb-md-0" alt="...">
+  <!-- Image -->
+  <img src="/img/patient_pilot_award-min.png" class="img-fluid mw-md-150 mw-lg-100 mb-6 mb-md-0" alt="...">
 
-          </div>
-          <div class="col-12 col-md-7 col-lg-6 order-md-1">
+</div>
+<div class="col-12 col-md-7 col-lg-6 order-md-1">
 
-            <!-- Heading -->
-            <h1 class="display-3 text-center text-md-left">
-              Award-Winning <span class="text-primary">Business Software Development</span><br>
-            </h1>
+  <!-- Heading -->
+  <h1 class="display-3 text-center text-md-left">
+    Award-Winning <span class="text-primary">Business Software Development</span><br>
+  </h1>
 
-            <!-- Text -->
-            <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8">
-              We are web software development consultants who specialize in delivering massive cost reductions to business owners by eliminating time-intensive processes.
-            </p>
+  <!-- Text -->
+  <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8">
+  We are Elixir software development consultants who specialize in delivering massive cost reductions to business owners by eliminating time-intensive processes.
+  </p>
 
-            <!-- Buttons -->
-            <div class="text-center text-md-left">
-              <a href="#our-work" class="btn btn-primary shadow lift mr-1">
-                See our work <i class="fe fe-arrow-right d-none d-sm-inline ml-3"></i>
-              </a>
+  <!-- Buttons -->
+  <div class="text-center text-md-left">
+    <a href="#our-work" class="btn btn-primary shadow lift mr-1">
+      See our work <i class="fe fe-arrow-right d-none d-sm-inline ml-3"></i>
+    </a>
 
-              <a class="btn btn-secondary shadow lift mr-1 d-lg-none" href="mailto:josh@ghed.dev?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
-                Get in touch
-              </a>
-            </div>
+    <a class="btn btn-secondary shadow lift mr-1 d-lg-none" href="mailto:josh@ghed.dev?subject=Tell Us About Your Project&body=Or just call Josh at 352-256-6111" target="_blank">
+      Get in touch
+    </a>
+  </div>
 
-          </div>
-        </div> <!-- / .row -->
-      </div> <!-- / .container -->
-    </section>
+</div>
+</div> <!-- / .row -->
+</div> <!-- / .container -->
+</section>
 
-    <!-- FEATURES
-      ================================================== -->
-      <section class="py-8 py-md-11 border-bottom">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-md-6">
-              <!-- Icon -->
-              <div class="icon text-primary mb-3">
-                <img src="/img/phoenix.png" class="img-fluid mh-40" alt="Realtime with Phoenix">
-              </div>
+<!-- FEATURES
+================================================== -->
+<section class="py-8 py-md-11 border-bottom">
+<div class="container">
+<div class="row">
+  <div class="col-12 col-md-6">
+    <!-- Icon -->
+    <div class="icon text-primary mb-3">
+      <img src="/img/phoenix.png" class="img-fluid mh-40" alt="Realtime with Phoenix">
+    </div>
 
-              <!-- Text -->
-              <p class="text-muted mb-6 mb-md-0">
-                The Elixir language's Phoenix framework is the epitome of cutting edge open source software. With Phoenix, we build highly interactive realtime web applications using the same technology of our nation's rock solid telecomm network.
-              </p>
+    <!-- Text -->
+    <p class="text-muted mb-6 mb-md-0">
+    The Elixir language's Phoenix framework is the epitome of cutting edge open source software. With Phoenix, we build highly interactive realtime web applications using the same technology of our nation's rock solid telecomm network.
+    </p>
 
-            </div>
-            <div class="col-12 col-md-6">
-              <!-- Icon -->
-              <div class="icon text-primary mb-3">
-                <img src="/img/rails.png" class="img-fluid mh-40" alt="Rapid development with Rails">
-              </div>
+  </div>
+  <div class="col-12 col-md-6">
+    <!-- Icon -->
+    <div class="icon text-primary mb-3">
+      <img src="/img/rails.png" class="img-fluid mh-40" alt="Rapid development with Rails">
+    </div>
 
-              <!-- Text -->
-              <p class="text-muted mb-6 mb-md-0">
-                The gold standard of getting from back-of-the-napkin idea to market quickly is Ruby on Rails. Twitter, AirBnB, Twitch, and Hulu all began with small, highly productive teams using this technology.
-              </p>
-            </div>
-          </div> <!-- / .row -->
-        </div> <!-- / .container -->
-      </section>
+    <!-- Text -->
+    <p class="text-muted mb-6 mb-md-0">
+    The gold standard of getting from back-of-the-napkin idea to market quickly is Ruby on Rails. Twitter, AirBnB, Twitch, and Hulu all began with small, highly productive teams using this technology.
+    </p>
+  </div>
+</div> <!-- / .row -->
+</div> <!-- / .container -->
+</section>
 
-      <!-- ABOUT
-        ================================================== -->
-        <section class="pt-8 pt-md-11 bg-gradient-light" id='services'>
-          <div class="container">
-            <div class="row justify-content-center">
-              <div class="col-12 col-md-10 col-lg-8 text-center">
+<!-- ABOUT
+================================================== -->
+<section class="pt-8 pt-md-11 bg-gradient-light" id='services'>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-10 col-lg-8 text-center">
 
-                <!-- Badge -->
-                <span class="badge badge-pill badge-success-soft mb-3">
-                  <span class="h6 text-uppercase">Services</span>
-                </span>
+      <!-- Badge -->
+      <span class="badge badge-pill badge-success-soft mb-3">
+        <span class="h6 text-uppercase">Services</span>
+      </span>
 
-                <!-- Heading -->
-                <h2 class="font-weight-bold">
-                  Instead of spending money on software, let's build software that makes you money.
-                </h2>
+      <!-- Heading -->
+      <h2 class="font-weight-bold">
+        Instead of spending money on software, let's build software that makes you money.
+      </h2>
 
-                <!-- Text -->
-                <p class="font-size-lg text-gray-700 mb-9">
-                  From rescuing a project, to augmenting your team, or making your business more efficient, we've got you covered.
-                </p>
+      <!-- Text -->
+      <p class="font-size-lg text-gray-700 mb-9">
+      From rescuing a project, to augmenting your team, or making your business more efficient, we've got you covered.
+      </p>
 
-              </div>
-            </div>
+    </div>
+  </div>
 
-            <div class="row">
-              <div class="col-12 col-md-6 text-center aos-init aos-animate" data-aos="fade-up">
+  <div class="row">
+    <div class="col-12 col-md-6 text-center aos-init aos-animate" data-aos="fade-up">
 
-                <!-- Icon -->
-                <div class="icon icon-lg mb-4">
-                  <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"></path><path d="M17.272 8.685a1 1 0 111.456-1.37l4 4.25a1 1 0 010 1.37l-4 4.25a1 1 0 01-1.456-1.37l3.355-3.565-3.355-3.565zm-10.544 0L3.373 12.25l3.355 3.565a1 1 0 01-1.456 1.37l-4-4.25a1 1 0 010-1.37l4-4.25a1 1 0 011.456 1.37z" fill="#335EEA"></path><rect fill="#335EEA" opacity=".3" transform="rotate(15 12 12)" x="11" y="4" width="2" height="16" rx="1"></rect></g></svg>
-                </div>
+      <!-- Icon -->
+      <div class="icon icon-lg mb-4">
+        <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"></path><path d="M17.272 8.685a1 1 0 111.456-1.37l4 4.25a1 1 0 010 1.37l-4 4.25a1 1 0 01-1.456-1.37l3.355-3.565-3.355-3.565zm-10.544 0L3.373 12.25l3.355 3.565a1 1 0 01-1.456 1.37l-4-4.25a1 1 0 010-1.37l4-4.25a1 1 0 011.456 1.37z" fill="#335EEA"></path><rect fill="#335EEA" opacity=".3" transform="rotate(15 12 12)" x="11" y="4" width="2" height="16" rx="1"></rect></g></svg>
+      </div>
 
-                <!-- Heading -->
-                <h3 class="font-weight-bold">
-                  Web Development
-                </h3>
+      <!-- Heading -->
+      <h3 class="font-weight-bold">
+        Web Development
+      </h3>
 
-                <!-- Text -->
-                <p class="text-muted mb-8">
-                  We use best-in-class technologies (Phoenix/Rails) to rapidly build reliable software that remedies your growing business' most acute inefficiencies.
-                </p>
+      <!-- Text -->
+      <p class="text-muted mb-8">
+      We use best-in-class technologies (Phoenix/Rails) to rapidly build reliable software that remedies your growing business' most acute inefficiencies.
+      </p>
 
-              </div>
-              <div class="col-12 col-md-6 text-center aos-init aos-animate" data-aos="fade-up">
+    </div>
+    <div class="col-12 col-md-6 text-center aos-init aos-animate" data-aos="fade-up">
 
-                <!-- Icon -->
-                <div class="icon icon-lg mb-4">
-                  <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"></path><path d="M12 8H8a4 4 0 00-4 4v1a3 3 0 003 3v2a5 5 0 01-5-5v-1a6 6 0 016-6h4V4.728a.5.5 0 01.8-.4l2.856 2.133a.5.5 0 01-.001.802l-2.857 2.121A.5.5 0 0112 8.983V8z" fill="#335EEA"></path><path d="M12.058 16H16a4 4 0 004-4v-1a3 3 0 00-3-3V6a5 5 0 015 5v1a6 6 0 01-6 6h-3.942v.983a.5.5 0 01-.798.401l-2.857-2.12a.5.5 0 010-.803l2.856-2.134a.5.5 0 01.8.401V16z" fill="#335EEA" opacity=".3"></path></g></svg>
-                </div>
+      <!-- Icon -->
+      <div class="icon icon-lg mb-4">
+        <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"></path><path d="M12 8H8a4 4 0 00-4 4v1a3 3 0 003 3v2a5 5 0 01-5-5v-1a6 6 0 016-6h4V4.728a.5.5 0 01.8-.4l2.856 2.133a.5.5 0 01-.001.802l-2.857 2.121A.5.5 0 0112 8.983V8z" fill="#335EEA"></path><path d="M12.058 16H16a4 4 0 004-4v-1a3 3 0 00-3-3V6a5 5 0 015 5v1a6 6 0 01-6 6h-3.942v.983a.5.5 0 01-.798.401l-2.857-2.12a.5.5 0 010-.803l2.856-2.134a.5.5 0 01.8.401V16z" fill="#335EEA" opacity=".3"></path></g></svg>
+      </div>
 
-                <!-- Heading -->
-                <h3 class="font-weight-bold">
-                  Mobile Development
-                </h3>
+      <!-- Heading -->
+      <h3 class="font-weight-bold">
+        Mobile Development
+      </h3>
 
-            <!-- Text -->
-            <p class="text-muted mb-8 mb-lg-0">
-              You need your office staff to know exactly what's going on in the field. We'll keep everyone on the same page with a Flutter mobile application. No backend yet? We do that too.
-            </p>
+      <!-- Text -->
+      <p class="text-muted mb-8 mb-lg-0">
+      You need your office staff to know exactly what's going on in the field. We'll keep everyone on the same page with a Flutter mobile application. No backend yet? We do that too.
+      </p>
 
-          </div>
-        </section>
+    </div>
+</section>
 
-                <!-- TESTIMONIALS
-                  ================================================== -->
-                  <section class="pt-10 pt-md-12">
-                    <div class="container">
-                      <div class="row justify-content-center">
-                        <div class="col-12 col-md-10 col-lg-8 text-center">
+<section class="pt-10 pt-md-12">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-10 col-lg-8 text-center">
 
-                          <!-- Heading -->
-                          <h2 id="our-work">
-                            Our customers streamline their tedious processes with bespoke software.
-                          </h2>
+        <!-- Heading -->
+        <h2 id="our-work">
+          Our customers streamline their tedious processes with bespoke software.
+        </h2>
 
-                          <!-- Text -->
-                          <p class="font-size-lg text-muted mb-7 mb-md-9">
-                            Here are a few projects that we've done over the years.
-                          </p>
+        <!-- Text -->
+        <p class="font-size-lg text-muted mb-7 mb-md-9">
+        Here are a few projects that we've done over the years.
+        </p>
 
-                        </div>
-                      </div> <!-- / .row -->
-                      <div class="row">
-                        <div class="col-12">
+      </div>
+    </div> <!-- / .row -->
+    <div class="row">
+      <div class="col-12">
 
-                          <!-- Card -->
-                          <div class="card card-row shadow-light-lg mb-6">
-                            <div class="row no-gutters">
-                              <div class="col-12 position-md-static">
+        <!-- Card -->
+        <div class="card card-row shadow-light-lg mb-6">
+          <div class="row no-gutters">
+            <div class="col-12 position-md-static">
 
-                                <!-- Slider -->
-                                <div class="position-md-static" id="blogSlider">
-                                  <div class="w-100">
-                                    <!-- Body -->
-                                    <div class="card-body">
-                                      <blockquote class="blockquote text-center mb-0">
+              <!-- Slider -->
+              <div class="position-md-static" id="blogSlider">
+                <div class="w-100">
+                  <!-- Body -->
+                  <div class="card-body">
+                    <blockquote class="blockquote text-center mb-0">
 
-                                        <!-- Brand -->
-                                        <div class="row justify-content-center mb-5 mb-md-7">
-                                          <div class="col-6 col-sm-4 col-md-7 col-lg-5">
+                      <!-- Brand -->
+                      <div class="row justify-content-center mb-5 mb-md-7">
+                        <div class="col-6 col-sm-4 col-md-7 col-lg-5">
 
-                                            <!-- Logo -->
-                                            <div class="img-fluid svg-shim" style="color: #FF5A5F;">
-                                              <a href='http://www.zencase.com' target='_blank'>
-                                                <img src="/img/zencase_logo.png" alt="zencase" class="img-fluid">
-                                              </a>
-                                            </div>
-
-                                          </div>
-                                        </div> <!-- / .row -->
-
-                                        <iframe width="560" height="315" title="Zencase Productivity" src="https://www.youtube.com/embed/jC8niM6jgyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                        <iframe width="560" height="315" title="Zencase Overview" src="https://www.youtube.com/embed/brf_ek749eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                        <!-- Text -->
-                                        <p class="mb-5 mb-md-7">
-                                          We worked with ZenCase for 2 years to turn a back-office full-stack Rails application into a separate EmberJS frontend that communicates with a Rails API.
-                                          We think that they have a very powerful piece of software with the potential to disrupt the legal space.
-                                        </p>
-
-                                        <p class="mb-5 mb-md-7">
-                                          After the software build, TJ's law firm was able to double billable time across his entire team.
-                                        </p>
-
-                                        <!-- Footer -->
-                                        <footer class="blockquote-footer">
-                                          <span class="h6 text-uppercase">Technologies: EmberJS, Ruby on Rails, NodeJS</span>
-                                        </footer>
-
-                                      </blockquote>
-
-                                  </div>
-                                  <div class="w-100">
-                                    <!-- Body -->
-                                    <div class="card-body">
-                                      <blockquote class="blockquote text-center mb-0">
-
-                                        <!-- Brand -->
-                                        <div class="row justify-content-center mb-5 mb-md-7">
-                                          <div class="col-6 col-sm-4 col-md-7 col-lg-5">
-
-                                            <!-- Logo -->
-                                            <div class="img-fluid svg-shim" style="color: #FF5A5F;">
-                                              <a href='https://www.youtube.com/watch?v=PNht4lo_UGc' target='_blank'>
-                                                <img src="/img/patient-pilot.png" alt="Patient Pilot" class="img-fluid">
-                                              </a>
-                                            </div>
-
-                                          </div>
-                                        </div> <!-- / .row -->
-
-                                        <iframe width="560" height="315" title="Tech Beach Hackathon" src="https://www.youtube.com/embed/rSHt7991OgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                        <iframe width="560" height="315" title="Patient Pilot Pitch" src="https://www.youtube.com/embed/PNht4lo_UGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                        <!-- Text -->
-                                        <p class="mb-5 mb-md-7">
-                                          Collaborating with Jitesh Doshi of <a href='http://www.spinspire.com' target="_blank">Spinspire</a> and Dr. Arnold Silverberg, we built Patient Pilot in 24 hours.
-                                        </p>
-
-                                        <p class="mb-5 mb-md-7">
-                                          It's a Progressive Web App (you can download it on your phone) that helps streamline the process of surgeons educating their patients on elective surgeries.
-                                          This was a big event put on by the city of Palm Coast, Florida.
-                                        </p>
-
-                                        <p class="mb-5 mb-md-7">
-                                          We took 2nd place and contributed to creating a better world!
-
-                                          Check out the <a href="https://flaglerlive.com/149270/tech-beach-hackathon/" target="_blank">article from Flagler Live</a>.
-                                        </p>
-
-
-                                        <!-- Footer -->
-                                        <footer class="blockquote-footer">
-                                          <span class="h6 text-uppercase">Technologies: Svelte, NodeJS</span>
-                                        </footer>
-
-                                      </blockquote>
-                                  </div>
-                                </div>
-                              </div>
-                            </div> <!-- / .row -->
+                          <!-- Logo -->
+                          <div class="img-fluid svg-shim" style="color: #FF5A5F;">
+                            <a href='http://www.zencase.com' target='_blank'>
+                              <img src="/img/zencase_logo.png" alt="zencase" class="img-fluid">
+                            </a>
                           </div>
 
                         </div>
                       </div> <!-- / .row -->
-                    </div> <!-- / .container -->
-                  </section>
 
-    <!-- SHAPE
-    ================================================== -->
-    <div class="position-relative mt-n8">
-      <div class="shape shape-bottom shape-fluid-x svg-shim text-black">
-        <svg viewBox="0 0 2880 480" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M2160 0C1440 240 720 240 720 240H0v240h2880V0h-720z" fill="currentColor"/></svg>
-      </div>
-    </div>
+                      <iframe width="560" height="315" title="Zencase Productivity" src="https://www.youtube.com/embed/jC8niM6jgyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" title="Zencase Overview" src="https://www.youtube.com/embed/brf_ek749eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <!-- Text -->
+                      <p class="mb-5 mb-md-7">
+                      We worked with ZenCase for 2 years to turn a back-office full-stack Rails application into a separate EmberJS frontend that communicates with a Rails API.
+                      We think that they have a very powerful piece of software with the potential to disrupt the legal space.
+                      </p>
 
-    <!-- STATS
-    ================================================== -->
-    <section class="pt-12 pt-md-13 bg-black">
-      <div class="container">
-        <div class="row justify-content-between align-items-center mb-5" id='about'>
-          <div class="col-12 order-md-1">
+                      <p class="mb-5 mb-md-7">
+                      After the software build, TJ's law firm was able to double billable time across his entire team.
+                      </p>
+                    </blockquote>
+                  </div>
 
-            <img class="img-fluid w-75 w-md-100 mb-6 mb-md-0" src="img/patient_pilot_award.png" alt="Patient Pilot" style="max-width: 450px;">
+                  <div class="w-100">
+                    <!-- Body -->
+                    <div class="card-body">
+                      <blockquote class="blockquote text-center mb-0">
 
-            <!-- Heading -->
-            <h2 class="text-white">
-              A software development shop obsessed with delivering real-world business value.
-            </h2>
+                        <!-- Brand -->
+                        <div class="row justify-content-center mb-5 mb-md-7">
+                          <div class="col-6 col-sm-4 col-md-7 col-lg-5">
 
-            <!-- Text -->
-            <div class="lead text-muted-80 mb-0">
+                            <!-- Logo -->
+                            <div class="img-fluid svg-shim" style="color: #FF5A5F;">
+                              <a href='https://www.youtube.com/watch?v=PNht4lo_UGc' target='_blank'>
+                                <img src="/img/patient-pilot.png" alt="Patient Pilot" class="img-fluid">
+                              </a>
+                            </div>
 
-              In October 2019, Joshua Plicque left a Software Engineering Lead position to pursue his personal passion of day trading in the stock market.
-              Along the way, in January 2020, he found his phone chirping with opportunities to solve three company's business problems through software. With this much opportunity, Or Equals was born.
-              <br>
-              <br>
+                          </div>
+                        </div> <!-- / .row -->
 
-              Joshua's career began under the tutelage of the world-class developers of Hashrocket, a lauded Ruby-on-Rails shop. After apprenticing there for a year, he honed his skills for 4 years
-              at ZenCase, a legal practice management startup. When things started taking off at the startup, he fielded a rockstar team of EmberJS and Rails developers.
+                        <iframe width="560" height="315" title="Tech Beach Hackathon" src="https://www.youtube.com/embed/rSHt7991OgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="560" height="315" title="Patient Pilot Pitch" src="https://www.youtube.com/embed/PNht4lo_UGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <!-- Text -->
+                        <p class="mb-5 mb-md-7">
+                        Collaborating with Jitesh Doshi of <a href='http://www.spinspire.com' target="_blank">Spinspire</a> and Dr. Arnold Silverberg, we built Patient Pilot in 24 hours.
+                        </p>
 
-              <br>
-              <br>
-              He founded Or Equals on the 3 core principles of: radical honesty, software excellence through craftmanship, and continuous improvement.
-              His software experience spans the fashion, trucking, travel, workplace productivity, and insurance industries. Due to these varied experiences, he brings a dynamic and well-rounded approach, founded upon delivering business value.
+                        <p class="mb-5 mb-md-7">
+                        It's a Progressive Web App (you can download it on your phone) that helps streamline the process of surgeons educating their patients on elective surgeries.
+                        This was a big event put on by the city of Palm Coast, Florida.
+                        </p>
 
-              <a href="https://www.visualcv.com/joshua-plicque/" target="_blank">
-                View his work experience here.
-              </a>
+                        <p class="mb-5 mb-md-7">
+                        We took 2nd place and contributed to creating a better world!
+
+                        Check out the <a href="https://flaglerlive.com/149270/tech-beach-hackathon/" target="_blank">article from Flagler Live</a>.
+                        </p>
+                      </blockquote>
+                    </div>
+                  </div>
+
+                  <div class="w-100">
+                    <!-- Body -->
+                    <div class="card-body">
+                      <blockquote class="blockquote text-center mb-0">
+
+                        <!-- Brand -->
+                        <div class="row justify-content-center mb-5 mb-md-7">
+                          <div class="col-6 col-sm-4 col-md-7 col-lg-5">
+
+                            <!-- Logo -->
+                            <div class="img-fluid svg-shim">
+                              <h2>
+                                Letter Legal Page Separator
+                              </h2>
+                            </div>
+
+                          </div>
+                        </div> <!-- / .row -->
+
+                        <iframe width="560" height="315" title="Letter Legal Page Separator" src="https://www.youtube.com/embed/8t0OapwhdFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                        <!-- Text -->
+                        <p class="mb-5 mb-md-7">
+                          We made an app over one weekend that separates letter and legal paper, in case you find yourself with a combo document. This app separates them into separate PDFs!
+                        </p>
+
+                        <p class="mb-5 mb-md-7">
+                        After the build, we got a pleasant email from a notary that found the app very useful!
+                        </p>
+                      </blockquote>
+                    </div>
+                  </div>
+                </div> <!-- / .row -->
+
             </div>
-
-          </div>
-        </div>
-        <div class="row align-items-center">
-          <div class="col-12">
-            <!-- Image -->
-            <img src="/img/illustrations/illustration-8.png" alt="..." class="img-fluid mb-6 mb-md-0">
           </div>
         </div> <!-- / .row -->
       </div> <!-- / .container -->
-    </section>
+    </div>
+  </div>
+</section>
 
-    <!-- PRICING
-    ================================================== -->
-    <section class="pt-9 pt-md-12 bg-black">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 col-md-10 col-lg-8 text-center">
+<!-- SHAPE
+================================================== -->
+<div class="position-relative mt-n8">
+  <div class="shape shape-bottom shape-fluid-x svg-shim text-black">
+    <svg viewBox="0 0 2880 480" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M2160 0C1440 240 720 240 720 240H0v240h2880V0h-720z" fill="currentColor"/></svg>
+  </div>
+</div>
 
-            <!-- Heading -->
-            <h1 class="text-white">
-              Make software work for you.
-            </h1>
+<!-- STATS
+================================================== -->
+<section class="pt-12 pt-md-13 bg-black">
+  <div class="container">
+    <div class="row justify-content-between align-items-center mb-5" id='about'>
+      <div class="col-12 order-md-1">
 
-            <!-- Text -->
-            <p class="lead text-white">
-              We have a proven track record of cutting business costs, improving productivity, and increasing happiness.
-            </p>
+        <img class="img-fluid w-75 w-md-100 mb-6 mb-md-0" src="img/patient_pilot_award.png" alt="Patient Pilot" style="max-width: 450px;">
 
-            <button class="btn btn-block btn-primary btn-lg mb-10 lift ml-auto" on:click={triggerCalendly}>
-              Get in touch
-            </button>
-          </div>
-        </div> <!-- / .row -->
+        <!-- Heading -->
+        <h2 class="text-white">
+          A software development shop obsessed with delivering real-world business value.
+        </h2>
+
+        <!-- Text -->
+        <div class="lead text-muted-80 mb-0">
+
+          In October 2019, Joshua Plicque left a Software Engineering Lead position to pursue his personal passion of day trading in the stock market.
+          Along the way, in January 2020, he found his phone chirping with opportunities to solve three company's business problems through software. With this much opportunity, Or Equals was born.
+          <br>
+          <br>
+
+          Joshua's career began under the tutelage of the world-class developers of Hashrocket, a lauded Ruby-on-Rails shop. After apprenticing there for a year, he honed his skills for 4 years
+          at ZenCase, a legal practice management startup. When things started taking off at the startup, he fielded a rockstar team of EmberJS and Rails developers.
+
+          <br>
+          <br>
+          He founded Or Equals on the 3 core principles of: radical honesty, software excellence through craftmanship, and continuous improvement.
+          His software experience spans the fashion, trucking, travel, workplace productivity, and insurance industries. Due to these varied experiences, he brings a dynamic and well-rounded approach, founded upon delivering business value.
+
+          <a href="https://www.visualcv.com/joshua-plicque/" target="_blank">
+            View his work experience here.
+          </a>
+        </div>
+
       </div>
-    </section>
+    </div>
+    <div class="row align-items-center">
+      <div class="col-12">
+        <!-- Image -->
+        <img src="/img/illustrations/illustration-8.png" alt="..." class="img-fluid mb-6 mb-md-0">
+      </div>
+    </div> <!-- / .row -->
+  </div> <!-- / .container -->
+</section>
+
+<section class="pt-9 pt-md-12 bg-black">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-10 col-lg-8 text-center">
+
+        <!-- Heading -->
+        <h1 class="text-white">
+          Make software work for you.
+        </h1>
+
+        <!-- Text -->
+        <p class="lead text-white">
+        We have a proven track record of cutting business costs, improving productivity, and increasing happiness.
+        </p>
+
+        <button class="btn btn-block btn-primary btn-lg mb-10 lift ml-auto" on:click={triggerCalendly}>
+          Get in touch
+        </button>
+      </div>
+    </div> <!-- / .row -->
+  </div>
+</section>
 
 <style>
   .mh-40 {
