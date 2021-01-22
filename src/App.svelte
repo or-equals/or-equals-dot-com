@@ -320,6 +320,41 @@
                   </div>
                 </div> <!-- / .row -->
 
+                <div class="w-100">
+                  <!-- Body -->
+                  <div class="card-body">
+                    <blockquote class="blockquote text-center mb-0">
+
+                      <!-- Brand -->
+                      <div class="row justify-content-center mb-5 mb-md-7">
+                        <div class="col-6 col-sm-4 col-md-7 col-lg-5">
+
+                          <!-- Logo -->
+                          <div class="img-fluid svg-shim">
+                            <h2>
+                              ACE Dispatch - Dispatching Software for Truckers
+                            </h2>
+                          </div>
+
+                        </div>
+                      </div> <!-- / .row -->
+
+                      <iframe width="560" height="315" title="Letter Legal Page Separator" src="https://www.youtube.com/embed/RX0m6hffifA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                      <!-- Text -->
+                      <p class="mb-5 mb-md-7">
+                      We built this dispatching software for a trucking company that completely transformed the dispatching story.
+                      Dispatching staff could quickly update routes company-wide. Truckers could easily get the updates.
+                      </p>
+
+                      <p class="mb-5 mb-md-7">
+                      We also built an integration with the truckers' handheld devices, so that they could mark deliveries on the fly.
+                      </p>
+                    </blockquote>
+                  </div>
+                </div>
+              </div> <!-- / .row -->
+
             </div>
           </div>
         </div> <!-- / .row -->
