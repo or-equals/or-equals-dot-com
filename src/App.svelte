@@ -227,15 +227,15 @@
                                   It all started with frustration that their off the shelf software had an 8-step online store sign up. We did some due diligence and discovered that their software platform belonged to a bankrupt company that hadn't done a major update in over 5 years.
                                   We built them an entire platform that:
                                   <ul>
-                                    <li>* Reduced their sign up to 4 steps</li>
-                                    <li>* Delivered massive speed improvements due to building it on the lightning-fast Phoenix LiveView technology</li>
-                                    <li>* Built a bespoke software algorithm for calculating deliveries/logistics</li>
-                                    <li>* Removed the need for member passwords with magic link login</li>
-                                    <li>* Delivered a full routing system, from mobile app, to inner staff realtime routing interface, and updates for their members</li>
-                                    <li>* Pioneered a completely custom online store, never before done in LiveView</li>
-                                    <li>* Complete inventory management system that tracks their item quantities against what was purchased in the store</li>
-                                    <li>* Pioneered an automatic allergy-to-item matching algorithm that keeps members safe by auto-substituting items with allergens</li>
-                                    <li>* Painlessly serves 3,000+ families in Jacksonville, FL</li>
+                                    <li>Reduced their sign up to 4 steps</li>
+                                    <li>Delivered massive speed improvements due to building it on the lightning-fast Phoenix LiveView technology</li>
+                                    <li>Built a bespoke software algorithm for calculating deliveries/logistics</li>
+                                    <li>Removed the need for member passwords with magic link login</li>
+                                    <li>Delivered a full routing system, from mobile app, to inner staff realtime routing interface, and updates for their members</li>
+                                    <li>Pioneered a completely custom online store, never before done in LiveView</li>
+                                    <li>Complete inventory management system that tracks their item quantities against what was purchased in the store</li>
+                                    <li>Pioneered an automatic allergy-to-item matching algorithm that keeps members safe by auto-substituting items with allergens</li>
+                                    <li>Painlessly serves 3,000+ families in Jacksonville, FL</li>
                                   </ul>
 
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
@@ -259,11 +259,11 @@
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
                                   We teamed up with the Metalink team to get them extra horsepower to build out their new Phoenix API backend platform. We built:
                                   <ul>
-                                    <li>* Periodic crawls of the blockchain to confirm NFT ownership</li>
-                                    <li>* Calculated portfolio value for NFT holders</li>
-                                    <li>* Built a highly scalable live chat system using Phoenix channels</li>
-                                    <li>* Used a port of a Rust library to authenticate Metamask wallets</li>
-                                    <li>* Did a live re-launch from their .NET v1 system to a ravenous set of 15,000 users</li>
+                                    <li>Periodic crawls of the blockchain to confirm NFT ownership</li>
+                                    <li>Calculated portfolio value for NFT holders</li>
+                                    <li>Built a highly scalable live chat system using Phoenix channels</li>
+                                    <li>Used a port of a Rust library to authenticate Metamask wallets</li>
+                                    <li>Did a live re-launch from their .NET v1 system to a ravenous set of 15,000 users</li>
                                   </ul>
 
 
@@ -288,12 +288,12 @@
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
                                   We took their legal practice management from an in-house built system and transformed it into a fully-featured competitive SaaS product.
                                   <ul>
-                                    <li>* Build a fully-featured Quickbooks integration that has processed tens of millions in invoices and payments</li>
-                                    <li>* Created a serverless function that painlessly generates legal documents on the fly</li>
-                                    <li>* Sped up legal delivery times massively through automatic document generation.</li>
-                                    <li>* Interviewed and Hired 7 software engineers</li>
-                                    <li>* They doubled their revenue</li>
-                                    <li>* We use zencase to this day to maintain the back-office for Or Equals</li>
+                                    <li>Build a fully-featured Quickbooks integration that has processed tens of millions in invoices and payments</li>
+                                    <li>Created a serverless function that painlessly generates legal documents on the fly</li>
+                                    <li>Sped up legal delivery times massively through automatic document generation.</li>
+                                    <li>Interviewed and Hired 7 software engineers</li>
+                                    <li>They doubled their revenue</li>
+                                    <li>We use zencase to this day to maintain the back-office for Or Equals</li>
                                   </ul>
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
                                   Technologies: EmberJS - Ruby on Rails
@@ -316,10 +316,10 @@
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
                                   We took their legal practice management from an in-house built system and transformed it into a fully-featured competitive SaaS product.
                                   <ul>
-                                    <li>* Separates two PDF documents by page size</li>
-                                    <li>* Built in 1 weekend</li>
-                                    <li>* Dynamically calcultes a stacking guide so that users can re-stack their paper </li>
-                                    <li>* After the build, we got a pleasant email from a notary that found the app very useful!</li>
+                                    <li>Separates two PDF documents by page size</li>
+                                    <li>Built in 1 weekend</li>
+                                    <li>Dynamically calcultes a stacking guide so that users can re-stack their paper </li>
+                                    <li>After the build, we got a pleasant email from a notary that found the app very useful!</li>
                                   </ul>
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
                                   Technologies: Ruby on Rails - StimulusJS
@@ -342,9 +342,9 @@
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
                                   We built a heavy-duty Discord moderation bot that can scale to hundreds of discord servers and hundreds of thousands of users.
                                   <ul>
-                                    <li>* Compiles server stats</li>
-                                    <li>* Total Modmail system so that users can discreetly request and coordinate moderation.</li>
-                                    <li>* Built with scale in mind. Can handle immense server load and message volume.</li>
+                                    <li>Compiles server stats</li>
+                                    <li>Total Modmail system so that users can discreetly request and coordinate moderation.</li>
+                                    <li>Built with scale in mind. Can handle immense server load and message volume.</li>
                                   </ul>
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
                                   Technologies: Elixir - Discord API
