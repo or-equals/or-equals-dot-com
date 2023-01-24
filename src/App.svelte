@@ -351,7 +351,7 @@
                                   <br>
                                   Engagement: Custom Discord Bot
                                   <br>
-                                  Website: <a href="https://letter-legal-separator.orequals.com/" target="_blank">letter-legal-separator.orequals.com</a>
+                                  Website: <a href="https://disboard.org/server/1027139234408181812" target="_blank">disboard.org/server/1027139234408181812</a>
                                 </p>
                               </div>
                             </div>
