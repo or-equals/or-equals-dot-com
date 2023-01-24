@@ -243,7 +243,7 @@
                                   <br>
                                   Engagement: Custom Software Build
                                   <br>
-                                  Website: <a href="www.localfarejax.com" target="_blank">localfarejax.com</a>
+                                  Website: <a href="https://www.localfarejax.com" target="_blank">localfarejax.com</a>
                                 </p>
                               </div>
                             </div>
@@ -272,7 +272,7 @@
                                   <br>
                                   Engagement: Team Augmentation
                                   <br>
-                                  Website: <a href="www.metalink.com" target="_blank">metalink.com</a>
+                                  Website: <a href="https://www.metalink.com" target="_blank">metalink.com</a>
                                 </p>
                               </div>
                             </div>
@@ -300,7 +300,7 @@
                                   <br>
                                   Engagement: Custom Software Build | Quickbooks Integration | Document Automation
                                   <br>
-                                  Website: <a href="www.zencase.com" target="_blank">zencase.com</a>
+                                  Website: <a href="https://www.zencase.com" target="_blank">zencase.com</a>
                                 </p>
                               </div>
                             </div>
