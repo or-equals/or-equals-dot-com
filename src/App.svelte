@@ -398,40 +398,6 @@
                     </div>
                   </div>
 
-                  <div class="w-100">
-                    <!-- Body -->
-                    <div class="card-body">
-                      <blockquote class="blockquote text-center mb-0">
-
-                        <!-- Brand -->
-                        <div class="row justify-content-center mb-5 mb-md-7">
-                          <div class="col-6 col-sm-4 col-md-7 col-lg-5">
-
-                            <!-- Logo -->
-                            <div class="img-fluid svg-shim">
-                              <h2>
-                                Letter Legal Page Separator
-                              </h2>
-                            </div>
-
-                          </div>
-                        </div> <!-- / .row -->
-
-                        <iframe width="560" height="315" title="Letter Legal Page Separator" src="https://www.youtube.com/embed/8t0OapwhdFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-                        <!-- Text -->
-                        <p class="mb-5 mb-md-7">
-                          We made an app over one weekend that separates letter and legal paper, in case you find yourself with a combo document. This app separates them into separate PDFs!
-                        </p>
-
-                        <p class="mb-5 mb-md-7">
-                        After the build, we got a pleasant email from a notary that found the app very useful!
-                        </p>
-                      </blockquote>
-                    </div>
-                  </div>
-                </div> <!-- / .row -->
-
                 <div class="w-100">
                   <!-- Body -->
                   <div class="card-body">
