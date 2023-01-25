@@ -450,45 +450,52 @@
 <section class="py-8 py-md-11 border-bottom">
   <div class="container" id="testimonials">
     <div class="row">
+
       <div class="col-12 col-md-6">
-        <div class="icon text-primary mb-3">
-          <img src="/img/testimonial_1.png" class="img-fluid mh-40" alt="Testimonial 1">
+        <h2 id="our-work">
+          Testimonials
+        </h2>
+      </div>
+      <div class="col-12 col-md-6">
+
+        <div class="text-primary mb-3">
+          <img src="/img/testimonial_1.png" class="img-fluid" alt="Testimonial 1">
         </div>
 
-        <div class="icon text-primary mb-3">
-          <img src="/img/testimonial_2.png" class="img-fluid mh-40" alt="Testimonial 2">
+        <div class="text-primary mb-3">
+          <img src="/img/testimonial_2.png" class="img-fluid" alt="Testimonial 2">
         </div>
 
-        <div class="icon text-primary mb-3">
-          <img src="/img/testimonial_3.png" class="img-fluid mh-40" alt="Testimonial 3">
+        <div class="text-primary mb-3">
+          <img src="/img/testimonial_3.png" class="img-fluid" alt="Testimonial 3">
         </div>
 
-        <div class="icon text-primary mb-3">
-          <img src="/img/testimonial_4.jpeg" class="img-fluid mh-40" alt="Testimonial 4">
+        <div class="text-primary mb-3">
+          <img src="/img/testimonial_4.jpeg" class="img-fluid" alt="Testimonial 4">
         </div>
 
-        <div class="icon text-primary mb-3">
-          <img src="/img/testimonial_5.png" class="img-fluid mh-40" alt="Testimonial 5">
+        <div class="text-primary mb-3">
+          <img src="/img/testimonial_5.png" class="img-fluid" alt="Testimonial 5">
         </div>
 
-        <div class="icon text-primary mb-3">
-          <img src="/img/testimonial_6.png" class="img-fluid mh-40" alt="Testimonial 6">
+        <div class="text-primary mb-3">
+          <img src="/img/testimonial_6.png" class="img-fluid" alt="Testimonial 6">
         </div>
 
-        <div class="icon text-primary mb-3">
-          <img src="/img/testimonial_7.png" class="img-fluid mh-40" alt="Testimonial 7">
+        <div class="text-primary mb-3">
+          <img src="/img/testimonial_7.png" class="img-fluid" alt="Testimonial 7">
         </div>
 
-        <div class="icon text-primary mb-3">
-          <img src="/img/testimonial_8.png" class="img-fluid mh-40" alt="Testimonial 8">
+        <div class="text-primary mb-3">
+          <img src="/img/testimonial_8.png" class="img-fluid" alt="Testimonial 8">
         </div>
 
-        <div class="icon text-primary mb-3">
-          <img src="/img/testimonial_9.png" class="img-fluid mh-40" alt="Testimonial 9">
+        <div class="text-primary mb-3">
+          <img src="/img/testimonial_9.png" class="img-fluid" alt="Testimonial 9">
         </div>
 
-        <div class="icon text-primary mb-3">
-          <img src="/img/testimonial_10.png" class="img-fluid mh-40" alt="Testimonial 10">
+        <div class="text-primary mb-3">
+          <img src="/img/testimonial_10.png" class="img-fluid" alt="Testimonial 10">
         </div>
     </div> <!-- / .container -->
   </section>
