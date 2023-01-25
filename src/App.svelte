@@ -479,9 +479,9 @@
           He founded Or Equals on the 3 core principles of: radical honesty, software excellence through craftmanship, and continuous improvement.
           His software experience spans the fashion, trucking, travel, workplace productivity, and insurance industries. Due to these varied experiences, he brings a dynamic and well-rounded approach, founded upon delivering business value.
 
-          <a href="https://www.visualcv.com/joshua-plicque/" target="_blank">
-            View his work experience here.
-          </a>
+          <img src="/img/oe.jpeg" alt="Our Team" class="img-fluid mb-6 mb-md-0">
+
+          We're a team of 4 developers (Vladi not pictured) and 1 video marketing specialist. We're based in the United States, but we're open to working with clients around the world.
         </div>
 
       </div>
