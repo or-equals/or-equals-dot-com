@@ -464,7 +464,7 @@
         </h2>
 
         <!-- Text -->
-        <div class="lead text-muted-80 mb-0">
+        <div class="lead text-muted-80 mb-0 mt-2">
 
           In October 2019, Joshua Plicque left a Software Engineering Lead position to pursue his personal passion of day trading in the stock market.
           Along the way, in January 2020, he found his phone chirping with opportunities to solve three companies' business problems through software. With this much opportunity, Or Equals was born.
@@ -479,7 +479,7 @@
           He founded Or Equals on the 3 core principles of: radical honesty, software excellence through craftmanship, and continuous improvement.
           His software experience spans the fashion, trucking, travel, workplace productivity, and insurance industries. Due to these varied experiences, he brings a dynamic and well-rounded approach, founded upon delivering business value.
 
-          <img src="/img/oe.jpeg" alt="Our Team" class="img-fluid mb-6 mb-md-0">
+          <img src="/img/oe.jpeg" alt="Our Team" class="img-fluid mb-3">
 
           We're a team of 4 developers (Vladi not pictured) and 1 video marketing specialist. We're based in the United States, but we're open to working with clients around the world.
         </div>
