@@ -456,7 +456,7 @@
           Testimonials
         </h2>
       </div>
-      <div class="col-12 col-md-6">
+      <div class="col-12">
 
         <div class="text-primary mb-3">
           <img src="/img/testimonial_1.png" class="img-fluid" alt="Testimonial 1">
