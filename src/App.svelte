@@ -36,6 +36,12 @@
               Our Work
             </a>
           </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="#testimonials" >
+              Testimonials
+            </a>
+          </li>
           <li class="nav-item">
             <a class="nav-link" href="#about" >
               Why Or Equals?
@@ -442,7 +448,7 @@
 </section>
 
 <section class="py-8 py-md-11 border-bottom">
-  <div class="container">
+  <div class="container" id="testimonials">
     <div class="row">
       <div class="col-12 col-md-6">
         <div class="icon text-primary mb-3">
