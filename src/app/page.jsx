@@ -41,6 +41,10 @@ export default async function Home() {
           </ul>
 
         </div>
+
+        <div className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
+          Contact Josh. IYKYK.
+        </div>
       </Container>
     </>
   )
