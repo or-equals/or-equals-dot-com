@@ -11,7 +11,10 @@ export default async function Home() {
             Creating great software products to solve the world&apos;s problems.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Or Equals is transitioning from a software development services company over to a product company. Here&apos;s what we&apos;re currently building:
+            Or Equals is transitioning from a software development services company over to a <strong>software product</strong> company.
+            <br />
+            &nbsp;
+            Here&apos;s what we&apos;re currently building:
             <br />
             <br />
           </p>
