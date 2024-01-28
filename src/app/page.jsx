@@ -29,6 +29,12 @@ export default async function Home() {
               </Link>
               &nbsp;- A set of tutorials and screencasts to help Elixir developers.
             </li>
+            <li>
+              <Link href="https://www.linkedin.com/in/joshuaplicque/" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
+                Highly Selective Client Work
+              </Link>
+              <span>&nbsp;- Doing highly selective client work. Elixir/Ruby/Flutter. IYKYK.</span>
+            </li>
           </ul>
 
         </div>
