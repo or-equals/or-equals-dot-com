@@ -7,9 +7,9 @@ export const metadata = {
   title: {
     template: '%s - Or Equals',
     default:
-      'A software development company',
+      'An Elixir software product company',
   },
-  description: 'A software development company'
+  description: 'An Elixir software product company'
 }
 
 export default function RootLayout({ children }) {
