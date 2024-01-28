@@ -13,7 +13,7 @@ export default async function Home() {
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             Or Equals is transitioning from a software development services company over to a <strong>software product</strong> company.
             <br />
-            &nbsp;
+            <br />
             Here&apos;s what we&apos;re currently building:
             <br />
             <br />
@@ -42,8 +42,12 @@ export default async function Home() {
 
         </div>
 
+        <br />
+        ---
+        <br />
+
         <div className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          Contact Josh. IYKYK.
+          Contact Josh if you want.
         </div>
       </Container>
     </>
