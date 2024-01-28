@@ -93,8 +93,9 @@ function AvatarContainer({ className, ...props }) {
 function Avatar({ large = false, className, ...props }) {
   return (
     <Link
-      href="/"
+      href="https://youtube.com/@liveviewmastery"
       aria-label="Home"
+      target="_blank"
       className={clsx(className, 'pointer-events-auto')}
       {...props}
     >

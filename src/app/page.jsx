@@ -21,19 +21,19 @@ export default async function Home() {
 
           <ul className="text-base text-zinc-600 dark:text-zinc-400">
             <li>
-              <Link href="https://letter-legal-separator.orequals.com/" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
+              <Link target="_blank" href="https://letter-legal-separator.orequals.com/" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
                 Letter Legal Separator
               </Link>
               <span>&nbsp;- A tool to help you separate your letter pages from your legal pages.</span>
             </li>
             <li>
-              <Link href="https://www.youtube.com/@liveviewmastery" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
+              <Link target="_blank" href="https://www.youtube.com/@liveviewmastery" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
                 Liveview Mastery
               </Link>
               &nbsp;- A set of tutorials and screencasts to help Elixir developers.
             </li>
             <li>
-              <Link href="https://www.linkedin.com/in/joshuaplicque/" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
+              <Link target="_blank" href="https://www.linkedin.com/in/joshuaplicque/" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
                 Highly Selective Client Work
               </Link>
               <span>&nbsp;- Doing highly selective client work. Elixir/Ruby/Flutter. IYKYK.</span>
