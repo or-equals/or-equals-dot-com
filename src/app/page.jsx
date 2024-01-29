@@ -50,7 +50,7 @@ export default async function Home() {
           <Link target="_blank" href="mailto:josh+website@orequals.com" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
             Contact Josh 
           </Link>
-          &nbsp;if you want.
+          &nbsp;if you'd like.
         </div>
       </Container>
     </>
