@@ -47,7 +47,7 @@ export default async function Home() {
         <br />
 
         <div className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          <Link target="_blank" href="mailto:josh@orequals.com" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
+          <Link target="_blank" href="mailto:josh+website@orequals.com" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
             Contact Josh 
           </Link>
           &nbsp;if you want.
