@@ -47,7 +47,7 @@ export default async function Home() {
         <br />
 
         <div className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          Contact Joshua Plicque if you'd like to get in touch. Posting the email here has been painful.
+          Contact Joshua Plicque on any social media to get in touch. Posting the email here has been painful.
         </div>
       </Container>
     </>
