@@ -18,7 +18,7 @@ export default async function Home() {
               <Link target="_blank" href="https://letter-legal-separator.orequals.com/" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
                 Letter Legal Separator Pro
               </Link>
-              <span>&nbsp;- An app to help your staff separate your letter pages from your legal pages.</span>
+              <span>&nbsp;- A fully-offline app to help your staff separate your letter pages from your legal pages.</span>
               <div>
                 <iframe
                   src="https://www.loom.com/embed/43261d4f7d544608b4b3636980e53a6a"
@@ -34,6 +34,10 @@ export default async function Home() {
         <div className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
           We are in early access and looking for notary firms with at least 3 notaries.
           If this looks interesting and this sounds like you, you can contact Joshua Plicque at <strong>josh dot orequals dot com</strong>.
+        </div>
+
+        <div className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
+          If you aren't a large notary firm, check out our free online version over at <Link target="_blank" href="https://letter-legal-separator.orequals.com/" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >letter-legal-separator.orequals.com</Link>.
         </div>
       </Container>
     </>
