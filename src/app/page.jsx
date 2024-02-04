@@ -8,46 +8,32 @@ export default async function Home() {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Creating great software products to solve the world&apos;s problems.
+            Creating premium software for notary firms running iOS/macOS.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Or Equals is transitioning from a software development services company over to a <strong>software product</strong> company.
-            <br />
-            <br />
-            Here&apos;s what we&apos;re currently building:
-            <br />
-            <br />
           </p>
 
           <ul className="text-base text-zinc-600 dark:text-zinc-400">
             <li>
               <Link target="_blank" href="https://letter-legal-separator.orequals.com/" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
-                Letter Legal Separator
+                Letter Legal Separator Pro
               </Link>
-              <span>&nbsp;- A tool to help you separate your letter pages from your legal pages.</span>
-            </li>
-            <li>
-              <Link target="_blank" href="https://www.youtube.com/@liveviewmastery" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
-                Liveview Mastery
-              </Link>
-              &nbsp;- A set of tutorials and screencasts to help Elixir developers.
-            </li>
-            <li>
-              <Link target="_blank" href="https://www.linkedin.com/in/joshuaplicque/" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
-                Highly Selective Client Work
-              </Link>
-              <span>&nbsp;- Doing highly selective client work. Elixir/Ruby/Flutter. IYKYK.</span>
+              <span>&nbsp;- An app to help your staff separate your letter pages from your legal pages.</span>
+              <div>
+                <iframe
+                  src="https://www.loom.com/embed/43261d4f7d544608b4b3636980e53a6a"
+                  frameBorder="0"
+                  allowFullScreen
+                  style={{ width: '640px', height: '360px' }}
+                ></iframe>
+              </div>
             </li>
           </ul>
-
         </div>
 
-        <br />
-        ---
-        <br />
-
         <div className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          Contact Joshua Plicque on any social media to get in touch. Posting the email here has been painful.
+          We are in early access and looking for notary firms with at least 3 notaries get early access to this product.
+          If this looks interesting, you can contact Joshua Plicque at <strong>josh dot orequals dot com</strong>.
         </div>
       </Container>
     </>
