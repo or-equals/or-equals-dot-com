@@ -32,8 +32,8 @@ export default async function Home() {
         </div>
 
         <div className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          We are in early access and looking for notary firms with at least 3 notaries get early access to this product.
-          If this looks interesting, you can contact Joshua Plicque at <strong>josh dot orequals dot com</strong>.
+          We are in early access and looking for notary firms with at least 3 notaries.
+          If this looks interesting and this sounds like you, you can contact Joshua Plicque at <strong>josh dot orequals dot com</strong>.
         </div>
       </Container>
     </>
