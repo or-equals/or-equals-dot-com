@@ -18,7 +18,7 @@ export default async function Home() {
               <Link target="_blank" href="https://letter-legal-separator.orequals.com/" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >
                 Letter Legal Separator Pro
               </Link>
-              <span>&nbsp;- A fully-offline app to help your staff separate your letter pages from your legal pages.</span>
+              <span>&nbsp;- A fully-offline app to help your staff separate letter from legal paper.</span>
               <div>
                 <iframe
                   src="https://www.loom.com/embed/43261d4f7d544608b4b3636980e53a6a"
