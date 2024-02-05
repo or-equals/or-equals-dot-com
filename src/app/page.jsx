@@ -19,7 +19,7 @@ export default async function Home() {
           {/* Responsive Video Container */}
           <div className="aspect-w-16 aspect-h-9">
             <iframe
-              src="https://www.youtube.com/embed/YC3SVOf7oik"
+              src="https://www.youtube.com/embed/Rzsk1ncrpXs"
               frameBorder="0"
               allowFullScreen
               className="w-full h-full"
