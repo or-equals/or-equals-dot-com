@@ -27,8 +27,7 @@ export default async function Home() {
           </div>
 
           <div className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            We are in early access for the <strong>Letter Legal Separator Pro</strong> iOS app and are looking for notaries to test our application.
-            If the demo looks interesting, you can <Link target="_blank" href="mailto:josh@orequals.com" className="text-white transition hover:text-teal-500 dark:hover:text-teal-400" >contact Joshua Plicque</Link>.
+            We are in closed beta for the <strong>Letter Legal Separator iOS app</strong>. Check out the demo above!
           </div>
         </div>
       </Container>
