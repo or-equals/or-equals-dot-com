@@ -233,6 +233,7 @@
                                   It all started with frustration that their off the shelf software had an 8-step online store sign up. We did some due diligence and discovered that their software platform belonged to a bankrupt company that hadn't done a major update in over 5 years.
                                   We built them an entire platform that:
                                   <ul>
+                                    <li>They doubled their revenue on their new platform, to the tune of multiple millions</li>
                                     <li>Reduced their sign up to 4 steps</li>
                                     <li>Delivered massive speed improvements due to building it on the lightning-fast Phoenix LiveView technology</li>
                                     <li>Built a bespoke software algorithm for calculating deliveries/logistics</li>
@@ -241,7 +242,7 @@
                                     <li>Pioneered a completely custom online store, never before done in LiveView</li>
                                     <li>Complete inventory management system that tracks their item quantities against what was purchased in the store</li>
                                     <li>Pioneered an automatic allergy-to-item matching algorithm that keeps members safe by auto-substituting items with allergens</li>
-                                    <li>Painlessly serves 3,000+ families in Jacksonville, FL</li>
+                                    <li>Painlessly serves 5,000+ families in Jacksonville, FL</li>
                                   </ul>
 
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
@@ -257,38 +258,9 @@
 
                           <div class="relative mx-auto px-6 py-8 max-w-7xl">
                             <div class="flex flex-col gap-8 ">
-                              <h2 class="sm:text-3xl font-black text-charcoal">Metalink</h2>
-                              <div class="object-cover image-size" style="position: relative; padding-bottom: 56.25%; height: 0;">
-                                <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0b9bf2893a6744ab94dc902a45651b16" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-                              </div>
-                              <div class="flex flex-col gap-6">
-                                <p class="sm:text-xl font-thin text-charcoal leading-loose">
-                                  We teamed up with the Metalink team to get them extra horsepower to build out their new Phoenix API backend platform. We built:
-                                  <ul>
-                                    <li>Periodic crawls of the blockchain to confirm NFT ownership</li>
-                                    <li>Calculated portfolio value for NFT holders</li>
-                                    <li>Built a highly scalable live chat system using Phoenix channels</li>
-                                    <li>Used a port of a Rust library to authenticate Metamask wallets</li>
-                                    <li>Did a live re-launch from their .NET v1 system to a ravenous set of 15,000 users</li>
-                                  </ul>
-
-
-                                <p class="sm:text-xl font-thin text-charcoal leading-loose">
-                                  Technologies: VueJs - Phoenix - Elixir
-                                  <br>
-                                  Engagement: Team Augmentation
-                                  <br>
-                                  Website: <a href="https://www.metalink.com" target="_blank">metalink.com</a>
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="relative mx-auto px-6 py-8 max-w-7xl">
-                            <div class="flex flex-col gap-8 ">
                               <h2 class="sm:text-3xl font-black text-charcoal">ZenCase</h2>
                               <div class="object-cover">
-                                <iframe width="560" height="315" src="https://www.youtube.com/watch?v=N9uJpRVmct4&t=2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/N9uJpRVmct4?si=R8eY81JHSvnydiJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                               </div>
                               <div class="flex flex-col gap-6">
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
@@ -298,7 +270,7 @@
                                     <li>Created a serverless function that painlessly generates legal documents on the fly</li>
                                     <li>Sped up legal delivery times massively through automatic document generation.</li>
                                     <li>Interviewed and Hired 7 software engineers</li>
-                                    <li>They doubled their revenue</li>
+                                    <li>They also doubled their revenueto the tune of multiple millions.</li>
                                     <li>We use zencase to this day to maintain the back-office for Or Equals</li>
                                   </ul>
                                 <p class="sm:text-xl font-thin text-charcoal leading-loose">
@@ -333,31 +305,6 @@
                                   Engagement: Custom Software Build
                                   <br>
                                   Website: <a href="https://letter-legal-separator.orequals.com/" target="_blank">letter-legal-separator.orequals.com</a>
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-
-                          <div class="relative mx-auto px-6 py-8 max-w-7xl">
-                            <div class="flex flex-col gap-8 ">
-                              <h2 class="sm:text-3xl font-black text-charcoal">Ouroboros Discord Bot</h2>
-                              <div class="object-cover">
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/Ci65sUwDN1c" title="Ouroboros Discord Bot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                              </div>
-                              <div class="flex flex-col gap-6">
-                                <p class="sm:text-xl font-thin text-charcoal leading-loose">
-                                  We built a heavy-duty Discord moderation bot that can scale to hundreds of discord servers and hundreds of thousands of users.
-                                  <ul>
-                                    <li>Compiles server stats</li>
-                                    <li>Total Modmail system so that users can discreetly request and coordinate moderation.</li>
-                                    <li>Built with scale in mind. Can handle immense server load and message volume.</li>
-                                  </ul>
-                                <p class="sm:text-xl font-thin text-charcoal leading-loose">
-                                  Technologies: Elixir - Discord API
-                                  <br>
-                                  Engagement: Custom Discord Bot
-                                  <br>
-                                  Website: <a href="https://disboard.org/server/1027139234408181812" target="_blank">disboard.org/server/1027139234408181812</a>
                                 </p>
                               </div>
                             </div>
