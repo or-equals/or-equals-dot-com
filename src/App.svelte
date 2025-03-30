@@ -283,32 +283,6 @@
                               </div>
                             </div>
                           </div>
-
-                          <div class="relative mx-auto px-6 py-8 max-w-7xl">
-                            <div class="flex flex-col gap-8 ">
-                              <h2 class="sm:text-3xl font-black text-charcoal">Letter Legal Separator</h2>
-                              <div class="object-cover">
-                                <iframe width="477" height="848" src="https://www.youtube.com/embed/G3zZ5Ods1cQ" title="Letter Legal Separator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                              </div>
-                              <div class="flex flex-col gap-6">
-                                <p class="sm:text-xl font-thin text-charcoal leading-loose">
-                                  We took their legal practice management from an in-house built system and transformed it into a fully-featured competitive SaaS product.
-                                  <ul>
-                                    <li>Separates two PDF documents by page size</li>
-                                    <li>Built in 1 weekend</li>
-                                    <li>Dynamically calcultes a stacking guide so that users can re-stack their paper </li>
-                                    <li>After the build, we got a pleasant email from a notary that found the app very useful!</li>
-                                  </ul>
-                                <p class="sm:text-xl font-thin text-charcoal leading-loose">
-                                  Technologies: Ruby on Rails - StimulusJS
-                                  <br>
-                                  Engagement: Custom Software Build
-                                  <br>
-                                  Website: <a href="https://letter-legal-separator.orequals.com/" target="_blank">letter-legal-separator.orequals.com</a>
-                                </p>
-                              </div>
-                            </div>
-                          </div>
                   </div>
 
                   <div class="w-100">
